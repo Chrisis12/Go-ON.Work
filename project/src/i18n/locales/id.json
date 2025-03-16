@@ -1,0 +1,42 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "success": "Berhasil",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "close": "Tutup",
+    "submit": "Kirim",
+    "search": "Cari"
+  },
+  "auth": {
+    "signIn": "Masuk",
+    "signUp": "Daftar",
+    "signOut": "Keluar",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "role": {
+      "select": "Saya adalah...",
+      "worker": "Pekerja",
+      "employer": "Pemberi Kerja"
+    }
+  },
+  "navigation": {
+    "findJobs": "Cari Pekerjaan",
+    "myJobs": "Pekerjaan Saya",
+    "appliedJobs": "Lamaran Saya",
+    "pastWorkers": "Pekerja Sebelumnya",
+    "notifications": "Notifikasi",
+    "settings": "Pengaturan",
+    "profile": "Profil"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "language": {
+      "title": "Bahasa",
+      "select": "Pilih bahasa"
+    }
+  }
+}
