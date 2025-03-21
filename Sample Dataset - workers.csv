@@ -1,0 +1,1001 @@
+Worker_ID,Location,Rating,Total_Earnings,Skills,Maids___Housekeepers_jobs,Construction_workers_jobs,Bricklayers_jobs,Plumbers_jobs,Electricians_jobs,Carpenters_jobs,Painters_jobs,Welders_jobs,Farm_laborers_jobs,Seasonal_crop_pickers_jobs,Waste_collectors_jobs,Scrap_metal_collectors_jobs,General_Labor_(misc.)_jobs,Handymen_jobs,Street_cleaners_jobs,Office___commercial_cleaners_jobs,Janitors_jobs
+1,Nusa Tenggara,87.1,3762720,Waste collectors,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0
+2,West Java,115,1863000,Welders,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+3,Bali,82.6,10874290,"Electricians, Scrap metal collectors, Waste collectors",0,0,0,0,23,0,0,0,0,0,38,49,0,0,0,0,0
+4,Central Java,108.5,4394250,Construction workers,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Sulawesi,108.6,8975790,"Janitors, Construction workers, Scrap metal collectors",0,4,0,0,0,0,0,0,0,0,0,43,0,0,0,0,42
+6,West Java,103.6,12970720,"Office / commercial cleaners, Carpenters, Scrap metal collectors",0,0,0,0,0,38,0,0,0,0,0,20,0,0,0,44,0
+7,West Java,89.1,12776940,"Plumbers, Carpenters, Street cleaners",0,0,0,48,0,12,0,0,0,0,0,0,0,0,36,0,0
+8,Sumatra,143.1,3327075,Maids / Housekeepers,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,East Java,136.5,9336600,"Office / commercial cleaners, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,34,0
+10,Central Java,114.6,10354110,"Painters, Scrap metal collectors, Plumbers",0,0,0,19,0,0,16,0,0,0,0,27,0,0,0,0,0
+11,East Java,117.4,6574400,"Janitors, Carpenters, Plumbers",0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,16
+12,Central Java,94.1,752800,Electricians,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+13,East Java,118.4,11840000,Electricians,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+14,Sumatra,82.3,8328760,"Carpenters, Construction workers",0,21,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0
+15,Kalimantan,114.8,12025300,"Plumbers, Street cleaners",0,0,0,46,0,0,0,0,0,0,0,0,0,0,17,0,0
+16,Papua,78.9,6844575,"Bricklayers, Street cleaners, Construction workers",0,27,25,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+17,Central Java,66.3,1074060,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0
+18,Nusa Tenggara,92.1,82890,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+19,West Java,77.5,5626500,"Welders, Scrap metal collectors, Maids / Housekeepers",7,0,0,0,0,0,0,24,0,0,0,23,0,0,0,0,0
+20,Nusa Tenggara,147.8,3724560,"Office / commercial cleaners, Waste collectors",0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,18,0
+21,Sulawesi,128.9,9119675,"Plumbers, General Labor (misc.), Handymen",0,0,0,20,0,0,0,0,0,0,0,0,27,2,0,0,0
+22,Jakarta,88.1,4664895,"General Labor (misc.), Construction workers",0,1,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0
+23,Central Java,73.8,3512880,Carpenters,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0
+24,Sulawesi,114.6,7924590,"Seasonal crop pickers, Scrap metal collectors, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,8,0,33,0,0,0,33,0
+25,Jakarta,130.7,6535000,"Maids / Housekeepers, Plumbers",8,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Papua,123,3099600,Waste collectors,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0
+27,Jakarta,85.6,5007600,"General Labor (misc.), Construction workers",0,11,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0
+28,Kalimantan,97.1,6059040,"Street cleaners, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,48,0,16,0,0
+29,Jakarta,82.5,878625,"Street cleaners, Handymen, Farm laborers",0,0,0,0,0,0,0,0,2,0,0,0,0,7,1,0,0
+30,Jakarta,105.7,1981875,Farm laborers,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+31,Kalimantan,110.7,8950095,"Carpenters, General Labor (misc.), Painters",0,0,0,0,0,9,15,0,0,0,0,0,41,0,0,0,0
+32,Nusa Tenggara,103.8,11085840,"Janitors, Scrap metal collectors, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,50,39
+33,East Java,87.7,10085500,"Plumbers, Painters, Seasonal crop pickers",0,0,0,47,0,0,12,0,0,5,0,0,0,0,0,0,0
+34,Bali,75.7,2043900,Construction workers,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Papua,91.9,4300920,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0
+36,Kalimantan,115.6,12311400,"Painters, Farm laborers, Construction workers",0,46,0,0,0,0,15,0,20,0,0,0,0,0,0,0,0
+37,Jakarta,107.9,9667840,"Carpenters, Welders",0,0,0,0,0,4,0,46,0,0,0,0,0,0,0,0,0
+38,Sulawesi,94.1,1411500,Painters,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+39,Nusa Tenggara,89.9,13224290,"Plumbers, Bricklayers, Waste collectors",0,0,46,34,0,0,0,0,0,0,1,0,0,0,0,0,0
+40,Central Java,112.6,9390840,"Construction workers, Welders",0,16,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0
+41,Sulawesi,106.4,11193280,"Plumbers, Scrap metal collectors",0,0,0,40,0,0,0,0,0,0,0,24,0,0,0,0,0
+42,Bali,108.1,5318520,"Seasonal crop pickers, Scrap metal collectors",0,0,0,0,0,0,0,0,0,33,0,28,0,0,0,0,0
+43,Kalimantan,96.9,7325640,"Bricklayers, Construction workers",0,30,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,West Java,118.1,4056735,"Farm laborers, Seasonal crop pickers",0,0,0,0,0,0,0,0,37,11,0,0,0,0,0,0,0
+45,Papua,109,10643850,"Scrap metal collectors, Seasonal crop pickers, Painters",0,0,0,0,0,0,41,0,0,20,0,23,0,0,0,0,0
+46,Sulawesi,121,3267000,Maids / Housekeepers,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Bali,104.8,314400,"Maids / Housekeepers, Janitors",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Bali,73.7,1359765,"Street cleaners, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,9,0,0,12,0,0
+49,West Java,62.2,3249950,"Plumbers, Street cleaners",0,0,0,10,0,0,0,0,0,0,0,0,0,0,43,0,0
+50,West Java,97.9,6490770,"Carpenters, Bricklayers",0,0,4,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+51,Sumatra,129.3,8979885,"Scrap metal collectors, Janitors",0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,31
+52,East Java,96,6868800,"Construction workers, General Labor (misc.)",0,19,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0
+53,East Java,138.5,7894500,Painters,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0
+54,Sulawesi,139.8,11407680,"Plumbers, Bricklayers",0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Nusa Tenggara,117.4,6944210,"Carpenters, General Labor (misc.)",0,0,0,0,0,7,0,0,0,0,0,0,45,0,0,0,0
+56,Sulawesi,88.6,10357340,"Electricians, Office / commercial cleaners, Bricklayers",0,0,14,0,29,0,0,0,0,0,0,0,0,0,0,39,0
+57,Bali,93.7,8882760,"Handymen, Street cleaners, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,37,0,0,0,38,36,0,0
+58,Bali,104.8,786000,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+59,Jakarta,110.3,595620,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+60,Papua,103.1,1237200,Electricians,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+61,Central Java,103.9,8478240,Carpenters,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0
+62,Bali,114.1,1454775,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0
+63,Jakarta,69.6,9535200,"Carpenters, Handymen",0,0,0,0,0,46,0,0,0,0,0,0,0,49,0,0,0
+64,Sumatra,86.6,3091620,"Seasonal crop pickers, Electricians, Office / commercial cleaners",0,0,0,0,6,0,0,0,0,14,0,0,0,0,0,17,0
+65,Sulawesi,107.4,9343800,"Welders, Farm laborers, Waste collectors",0,0,0,0,0,0,0,27,8,0,36,0,0,0,0,0,0
+66,Papua,75.2,12701280,"Plumbers, Farm laborers, Handymen",0,0,0,48,0,0,0,0,46,0,0,0,0,32,0,0,0
+67,Sulawesi,88.5,7752600,"General Labor (misc.), Construction workers",0,29,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0
+68,Sulawesi,101.7,2684880,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0
+69,Nusa Tenggara,64.6,3934140,"General Labor (misc.), Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,26,32,0,0,0,0
+70,West Java,114.8,11376680,"Scrap metal collectors, Carpenters, Waste collectors",0,0,0,0,0,35,0,0,0,0,44,0,0,0,0,0,0
+71,East Java,86.8,820260,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+72,Sumatra,52.6,1475430,"General Labor (misc.), Seasonal crop pickers, Street cleaners",0,0,0,0,0,0,0,0,0,11,0,0,14,0,9,0,0
+73,Sulawesi,110.4,9488880,"Bricklayers, Janitors, Farm laborers",0,0,36,0,0,0,0,0,14,0,0,0,0,0,0,0,19
+74,Bali,104.5,3840375,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0
+75,Jakarta,137.3,549200,Plumbers,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,East Java,66.8,1252500,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+77,Papua,80.2,2955370,"Bricklayers, Scrap metal collectors",0,0,5,0,0,0,0,0,0,0,0,27,0,0,0,0,0
+78,Sumatra,127.3,1833120,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0
+79,Sumatra,72.4,2736720,Welders,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0
+80,Kalimantan,57,1841100,Carpenters,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+81,West Java,97.6,8520480,"Painters, Office / commercial cleaners",0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,22,0
+82,Bali,98.3,7588760,"Plumbers, Waste collectors",0,0,0,26,0,0,0,0,0,0,28,0,0,0,0,0,0
+83,Kalimantan,75,1507500,"Janitors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,22
+84,Jakarta,143.5,4993800,"Handymen, Janitors",0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,16
+85,Nusa Tenggara,74,6164200,Bricklayers,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,West Java,119.4,4173030,"Seasonal crop pickers, Farm laborers",0,0,0,0,0,0,0,0,25,27,0,0,0,0,0,0,0
+87,Central Java,100.3,2708100,Painters,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+88,Bali,93.1,3142125,"Farm laborers, Handymen",0,0,0,0,0,0,0,0,37,0,0,0,0,5,0,0,0
+89,Papua,80.8,7579040,"Seasonal crop pickers, Welders, Electricians",0,0,0,0,22,0,0,16,0,35,0,0,0,0,0,0,0
+90,Sumatra,79.6,12123080,"Plumbers, Waste collectors, Carpenters",0,0,0,43,0,30,0,0,0,0,17,0,0,0,0,0,0
+91,Bali,118.3,4223310,"Handymen, Waste collectors",0,0,0,0,0,0,0,0,0,0,21,0,0,14,0,0,0
+92,East Java,112.8,7309440,"Waste collectors, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,40,0
+93,Central Java,76.3,6512205,"Janitors, Office / commercial cleaners, Maids / Housekeepers",29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,44
+94,Papua,108.3,2842875,Maids / Housekeepers,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Bali,67.9,7743995,"Plumbers, Scrap metal collectors",0,0,0,46,0,0,0,0,0,0,0,21,0,0,0,0,0
+96,East Java,101.9,11779640,"Carpenters, Office / commercial cleaners, Handymen",0,0,0,0,0,20,0,0,0,0,0,0,0,38,0,40,0
+97,West Java,122.9,19448925,"Plumbers, Scrap metal collectors, Carpenters",0,0,0,40,0,17,0,0,0,0,0,47,0,0,0,0,0
+98,Sumatra,96,1296000,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+99,Sulawesi,85.3,3134775,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49
+100,West Java,80.6,3203850,"Street cleaners, Plumbers",0,0,0,9,0,0,0,0,0,0,0,0,0,0,29,0,0
+101,Papua,82.3,6295950,"Construction workers, Janitors",0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+102,East Java,93,1548450,"General Labor (misc.), Seasonal crop pickers",0,0,0,0,0,0,0,0,0,19,0,0,5,0,0,0,0
+103,West Java,116.2,13758080,"Handymen, Electricians, Construction workers",0,32,0,0,7,0,0,0,0,0,0,0,0,47,0,0,0
+104,Sulawesi,126.4,5928160,"Plumbers, Bricklayers",0,0,17,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,Sulawesi,107.8,1164240,Welders,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+106,West Java,68.5,12665650,"Construction workers, Carpenters, Electricians",0,34,0,0,27,47,0,0,0,0,0,0,0,0,0,0,0
+107,Nusa Tenggara,74.7,1643400,Electricians,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+108,Papua,87.2,9945160,"Street cleaners, Carpenters",0,0,0,0,0,49,0,0,0,0,0,0,0,0,41,0,0
+109,Sumatra,130.6,9435850,"Bricklayers, Plumbers, Farm laborers",0,0,10,22,0,0,0,0,15,0,0,0,0,0,0,0,0
+110,Sumatra,97.7,0,Waste collectors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,Papua,81.7,845595,"Farm laborers, Seasonal crop pickers",0,0,0,0,0,0,0,0,9,6,0,0,0,0,0,0,0
+112,Kalimantan,110.1,660600,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0
+113,West Java,113.9,10364900,"Electricians, Construction workers",0,22,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0
+114,Bali,73.1,6728855,"Maids / Housekeepers, Construction workers, Carpenters",47,22,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+115,Sulawesi,111.9,7441350,"Janitors, Carpenters, General Labor (misc.)",0,0,0,0,0,19,0,0,0,0,0,0,24,0,0,0,12
+116,Sulawesi,91,12366900,"General Labor (misc.), Carpenters, Painters",0,0,0,0,0,48,18,0,0,0,0,0,26,0,0,0,0
+117,Central Java,98.5,4875750,"Office / commercial cleaners, Painters",0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,5,0
+118,West Java,147.5,5708250,"Painters, Farm laborers, Carpenters",0,0,0,0,0,6,13,0,12,0,0,0,0,0,0,0,0
+119,Central Java,86.7,7776990,"Seasonal crop pickers, Painters",0,0,0,0,0,0,45,0,0,37,0,0,0,0,0,0,0
+120,East Java,102.2,5028240,"Street cleaners, Handymen",0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0
+121,Nusa Tenggara,89.8,4579800,Construction workers,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Central Java,89.1,6473115,"Scrap metal collectors, Carpenters, Seasonal crop pickers",0,0,0,0,0,22,0,0,0,15,0,25,0,0,0,0,0
+123,Bali,91.4,4853340,"Scrap metal collectors, Janitors",0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,26
+124,Kalimantan,126.3,6630750,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+125,Nusa Tenggara,96.8,4573800,"Janitors, Painters, Street cleaners",0,0,0,0,0,0,8,0,0,0,0,0,0,0,13,0,34
+126,Papua,101.4,13080600,"Maids / Housekeepers, Plumbers",44,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Sulawesi,111.7,402120,Welders,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+128,Papua,111.7,3619080,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0
+129,Sulawesi,114,9661500,"Construction workers, Farm laborers, Office / commercial cleaners",0,17,0,0,0,0,0,0,49,0,0,0,0,0,0,25,0
+130,Jakarta,71.1,959850,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+131,Papua,132.1,11803135,"Carpenters, Janitors, Waste collectors",0,0,0,0,0,23,0,0,0,0,40,0,0,0,0,0,19
+132,East Java,105.4,1501950,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0
+133,West Java,38.5,1980825,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0
+134,Papua,116.8,12415840,"Bricklayers, Office / commercial cleaners",0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,35,0
+135,Kalimantan,76.2,3360420,"Waste collectors, Office / commercial cleaners, Carpenters",0,0,0,0,0,18,0,0,0,0,11,0,0,0,0,4,0
+136,Central Java,87.8,9583370,"Scrap metal collectors, Welders, Bricklayers",0,0,5,0,0,0,0,32,0,0,0,41,0,0,0,0,0
+137,Kalimantan,115.4,5885400,"Office / commercial cleaners, General Labor (misc.), Bricklayers",0,0,15,0,0,0,0,0,0,0,0,0,2,0,0,26,0
+138,East Java,107.2,1849200,Maids / Housekeepers,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,Papua,130,5206500,"Office / commercial cleaners, General Labor (misc.), Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,15,0,18,12,0
+140,Sumatra,89.9,13646820,"Construction workers, Maids / Housekeepers, Welders",44,42,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0
+141,Central Java,139.5,17856000,"Electricians, Plumbers",0,0,0,39,25,0,0,0,0,0,0,0,0,0,0,0,0
+142,Central Java,77.7,14560980,"Electricians, Plumbers, Bricklayers",0,0,42,9,49,0,0,0,0,0,0,0,0,0,0,0,0
+143,Bali,96.9,7412850,"Plumbers, Construction workers",0,23,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Bali,104.1,4840650,"Electricians, Street cleaners",0,0,0,0,21,0,0,0,0,0,0,0,0,0,6,0,0
+145,Bali,123.8,8226510,"Welders, General Labor (misc.)",0,0,0,0,0,0,0,20,0,0,0,0,29,0,0,0,0
+146,Sulawesi,137.3,12398190,"Handymen, Painters",0,0,0,0,0,0,41,0,0,0,0,0,0,24,0,0,0
+147,Central Java,83.5,10713050,"Welders, Bricklayers",0,0,49,0,0,0,0,25,0,0,0,0,0,0,0,0,0
+148,Papua,105.2,7279840,"Scrap metal collectors, Janitors, Carpenters",0,0,0,0,0,4,0,0,0,0,0,28,0,0,0,0,44
+149,Sumatra,90,6925500,"Janitors, Office / commercial cleaners, Farm laborers",0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,43,47
+150,Kalimantan,102.2,4491690,"Farm laborers, General Labor (misc.)",0,0,0,0,0,0,0,0,4,0,0,0,39,0,0,0,0
+151,Nusa Tenggara,59.4,2227500,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0
+152,Bali,118.8,7377480,"Scrap metal collectors, Street cleaners, Handymen",0,0,0,0,0,0,0,0,0,0,0,16,0,24,22,0,0
+153,Bali,105.7,7610400,"Painters, Handymen",0,0,0,0,0,0,44,0,0,0,0,0,0,5,0,0,0
+154,Jakarta,98.2,8911650,"Construction workers, Janitors",0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+155,Papua,111.2,20077160,"Scrap metal collectors, Bricklayers, Plumbers",0,0,43,28,0,0,0,0,0,0,0,49,0,0,0,0,0
+156,Sumatra,53.2,3979360,"Handymen, Plumbers",0,0,0,8,0,0,0,0,0,0,0,0,0,49,0,0,0
+157,Central Java,123.7,11899940,"Seasonal crop pickers, Carpenters, Plumbers",0,0,0,10,0,36,0,0,0,25,0,0,0,0,0,0,0
+158,Sumatra,114.1,1026900,Maids / Housekeepers,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,Central Java,124.8,14582880,"Construction workers, Farm laborers, Carpenters",0,45,0,0,0,18,0,0,25,0,0,0,0,0,0,0,0
+160,Kalimantan,59.2,2735040,"General Labor (misc.), Office / commercial cleaners, Welders",0,0,0,0,0,0,0,8,0,0,0,0,14,0,0,19,0
+161,West Java,79.8,5793480,"General Labor (misc.), Construction workers, Waste collectors",0,31,0,0,0,0,0,0,0,0,8,0,18,0,0,0,0
+162,East Java,85.5,448875,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+163,East Java,78.8,4775280,"Handymen, Waste collectors",0,0,0,0,0,0,0,0,0,0,50,0,0,13,0,0,0
+164,Papua,101.3,11401315,"General Labor (misc.), Carpenters, Electricians",0,0,0,0,26,35,0,0,0,0,0,0,1,0,0,0,0
+165,Papua,56.1,1615680,"Street cleaners, Carpenters",0,0,0,0,0,9,0,0,0,0,0,0,0,0,18,0,0
+166,East Java,89.6,739200,Farm laborers,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+167,Bali,107.3,5536680,"Maids / Housekeepers, Waste collectors, Construction workers",0,14,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0
+168,Papua,102.2,2268840,"General Labor (misc.), Seasonal crop pickers",0,0,0,0,0,0,0,0,0,2,0,0,20,0,0,0,0
+169,West Java,93.6,7932600,"Janitors, Construction workers",0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+170,Bali,92.7,2391660,"Scrap metal collectors, Handymen",0,0,0,0,0,0,0,0,0,0,0,12,0,11,0,0,0
+171,East Java,111,4884000,Electricians,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+172,Central Java,85.1,2233875,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+173,Central Java,105.5,1740750,Construction workers,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,Central Java,84.6,2030400,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0
+175,East Java,126.9,13096080,"Welders, Janitors",0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,44
+176,Bali,96.7,13296250,"Construction workers, Plumbers",0,29,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Bali,100.2,2600190,"Scrap metal collectors, Welders",0,0,0,0,0,0,0,8,0,0,0,11,0,0,0,0,0
+178,Kalimantan,68.8,3653280,"Scrap metal collectors, Waste collectors",0,0,0,0,0,0,0,0,0,0,3,48,0,0,0,0,0
+179,Central Java,107.9,10687495,"Bricklayers, Scrap metal collectors",0,0,28,0,0,0,0,0,0,0,0,49,0,0,0,0,0
+180,Sumatra,104.3,5215000,Plumbers,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,Bali,104.3,10450860,"Waste collectors, Construction workers, Bricklayers",0,23,36,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+182,Kalimantan,100.7,7874740,Bricklayers,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,Jakarta,79.4,6086010,"Bricklayers, Handymen, General Labor (misc.)",0,0,15,0,0,0,0,0,0,0,0,0,27,19,0,0,0
+184,Jakarta,111.8,2012400,Welders,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+185,Jakarta,95.1,8002665,"Janitors, General Labor (misc.), Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,32,26,0,0,0,31
+186,Kalimantan,121.1,7266000,"Plumbers, Farm laborers",0,0,0,15,0,0,0,0,40,0,0,0,0,0,0,0,0
+187,Kalimantan,88.5,8531400,"Electricians, Carpenters",0,0,0,0,38,12,0,0,0,0,0,0,0,0,0,0,0
+188,Central Java,92.4,9604980,"Welders, Handymen, Street cleaners",0,0,0,0,0,0,0,32,0,0,0,0,0,8,49,0,0
+189,Central Java,108.8,16080640,"Electricians, Bricklayers, Handymen",0,0,22,0,39,0,0,0,0,0,0,0,0,27,0,0,0
+190,Bali,118.9,5564520,"Construction workers, Seasonal crop pickers",0,14,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0
+191,Papua,135.6,10007280,"Maids / Housekeepers, General Labor (misc.)",34,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0
+192,Sulawesi,106,12985000,"Seasonal crop pickers, Janitors, Plumbers",0,0,0,35,0,0,0,0,0,45,0,0,0,0,0,0,34
+193,Kalimantan,95.2,8053920,"Handymen, Welders",0,0,0,0,0,0,0,27,0,0,0,0,0,30,0,0,0
+194,Central Java,125.3,10807125,"Construction workers, Street cleaners",0,44,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0
+195,Papua,101.4,12761190,"Scrap metal collectors, Street cleaners, Construction workers",0,48,0,0,0,0,0,0,0,0,0,22,0,0,41,0,0
+196,Central Java,102.3,2260830,Carpenters,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0
+197,Nusa Tenggara,132.1,8982800,Electricians,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+198,Sulawesi,137.7,5824710,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0
+199,Central Java,51.5,2762975,"Carpenters, Janitors, Street cleaners",0,0,0,0,0,17,0,0,0,0,0,0,0,0,13,0,20
+200,Sulawesi,106,10615900,"Janitors, Plumbers, Waste collectors",0,0,0,29,0,0,0,0,0,0,6,0,0,0,0,0,49
+201,Kalimantan,94.7,653430,"Carpenters, Waste collectors",0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0
+202,Sulawesi,117.2,4711440,"Seasonal crop pickers, Welders",0,0,0,0,0,0,0,7,0,46,0,0,0,0,0,0,0
+203,Jakarta,94.3,13003970,"Seasonal crop pickers, Office / commercial cleaners, Carpenters",0,0,0,0,0,40,0,0,0,49,0,0,0,0,0,45,0
+204,Kalimantan,91.1,2391375,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0
+205,Nusa Tenggara,108.9,3887730,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0
+206,Papua,108.9,3544695,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0
+207,Sulawesi,119.8,3072870,"Office / commercial cleaners, Painters, General Labor (misc.)",0,0,0,0,0,0,12,0,0,0,0,0,3,0,0,5,0
+208,Bali,125,7175000,"Office / commercial cleaners, Plumbers",0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,6,0
+209,Bali,105.2,13381440,"Seasonal crop pickers, Welders, Office / commercial cleaners",0,0,0,0,0,0,0,37,0,47,0,0,0,0,0,36,0
+210,Jakarta,107,5826150,"Plumbers, Seasonal crop pickers, Scrap metal collectors",0,0,0,3,0,0,0,0,0,9,0,41,0,0,0,0,0
+211,Kalimantan,109.9,15413475,"Electricians, Bricklayers, Janitors",0,0,30,0,36,0,0,0,0,0,0,0,0,0,0,0,23
+212,Sumatra,112.5,2801250,"Street cleaners, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,14,0,0,0,0,22,0,0
+213,Sulawesi,100.6,3470700,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46
+214,Jakarta,99.2,6428160,"Street cleaners, Handymen",0,0,0,0,0,0,0,0,0,0,0,0,0,39,24,0,0
+215,Sulawesi,119.2,8916160,Bricklayers,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,Kalimantan,73.9,5265375,"Electricians, Office / commercial cleaners, Scrap metal collectors",0,0,0,0,6,0,0,0,0,0,0,47,0,0,0,11,0
+217,Sumatra,108,4374000,"Farm laborers, Waste collectors",0,0,0,0,0,0,0,0,24,0,25,0,0,0,0,0,0
+218,Jakarta,85.6,11170800,"Welders, Bricklayers",0,0,45,0,0,0,0,30,0,0,0,0,0,0,0,0,0
+219,Sumatra,93.3,223920,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+220,Papua,126,10206000,Welders,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0
+221,Central Java,111.3,4324005,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0
+222,Sulawesi,114.2,8188140,"Handymen, Painters",0,0,0,0,0,0,19,0,0,0,0,0,0,36,0,0,0
+223,Papua,97.9,6373290,"Handymen, Farm laborers, Electricians",0,0,0,0,12,0,0,0,42,0,0,0,0,8,0,0,0
+224,Kalimantan,86.4,3369600,"Painters, Office / commercial cleaners",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,40,0
+225,Bali,97.1,11083965,"Plumbers, Janitors, Waste collectors",0,0,0,36,0,0,0,0,0,0,31,0,0,0,0,0,19
+226,Central Java,99.3,4170600,"Plumbers, Electricians, Farm laborers",0,0,0,4,5,0,0,0,32,0,0,0,0,0,0,0,0
+227,Sulawesi,98.2,515550,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+228,Sulawesi,87.8,9767750,"Maids / Housekeepers, Construction workers, Plumbers",45,37,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,East Java,98.3,2875275,Farm laborers,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0
+230,East Java,113,5130200,"Maids / Housekeepers, Seasonal crop pickers, Bricklayers",42,0,5,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+231,Bali,86,1548000,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0
+232,Jakarta,96,8784000,"Street cleaners, Painters, Maids / Housekeepers",22,0,0,0,0,0,39,0,0,0,0,0,0,0,22,0,0
+233,West Java,99.3,446850,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+234,Papua,112.4,8059080,"Maids / Housekeepers, Handymen, Seasonal crop pickers",18,0,0,0,0,0,0,0,0,15,0,0,0,41,0,0,0
+235,Jakarta,62.7,423225,Maids / Housekeepers,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,Nusa Tenggara,118.3,798525,Farm laborers,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+237,Jakarta,113.6,11331600,"Street cleaners, Painters, Janitors",0,0,0,0,0,0,31,0,0,0,0,0,0,0,38,0,33
+238,Sulawesi,125.3,7593180,"Office / commercial cleaners, Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,29,0
+239,Kalimantan,64.4,5284020,"Construction workers, Street cleaners, General Labor (misc.)",0,46,0,0,0,0,0,0,0,0,0,0,6,0,9,0,0
+240,Central Java,77.6,1986560,"Seasonal crop pickers, Plumbers",0,0,0,5,0,0,0,0,0,26,0,0,0,0,0,0,0
+241,Kalimantan,88.4,4344860,"Street cleaners, Painters, Bricklayers",0,0,2,0,0,0,25,0,0,0,0,0,0,0,11,0,0
+242,Kalimantan,83.7,9374400,"Seasonal crop pickers, Carpenters, Electricians",0,0,0,0,12,44,0,0,0,22,0,0,0,0,0,0,0
+243,East Java,94.2,15189750,"Construction workers, Street cleaners, Plumbers",0,38,0,45,0,0,0,0,0,0,0,0,0,0,19,0,0
+244,Sulawesi,59.2,6029520,"Scrap metal collectors, Construction workers, Maids / Housekeepers",29,31,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+245,Central Java,69.5,5455750,"Plumbers, Painters",0,0,0,31,0,0,11,0,0,0,0,0,0,0,0,0,0
+246,West Java,76.1,3219030,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0
+247,West Java,87.9,11189670,"Welders, Carpenters, Plumbers",0,0,0,6,0,17,0,48,0,0,0,0,0,0,0,0,0
+248,East Java,103.2,4040280,"Waste collectors, Farm laborers",0,0,0,0,0,0,0,0,27,0,21,0,0,0,0,0,0
+249,East Java,100.5,5321475,"Scrap metal collectors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,20,0,39,0,0,0,0,0
+250,Sulawesi,102.2,3822280,Carpenters,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+251,Kalimantan,74.6,1753100,"Electricians, Construction workers",0,1,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+252,Nusa Tenggara,105.3,6396975,"General Labor (misc.), Street cleaners, Janitors",0,0,0,0,0,0,0,0,0,0,0,0,15,0,20,0,40
+253,Central Java,111,16905300,"Plumbers, Painters, Scrap metal collectors",0,0,0,46,0,0,29,0,0,0,0,16,0,0,0,0,0
+254,Sulawesi,95.7,9187200,"Construction workers, Handymen",0,40,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0
+255,Nusa Tenggara,92.1,10536240,"Carpenters, Scrap metal collectors",0,0,0,0,0,50,0,0,0,0,0,28,0,0,0,0,0
+256,Bali,115.5,7311150,"Scrap metal collectors, Waste collectors",0,0,0,0,0,0,0,0,0,0,19,44,0,0,0,0,0
+257,Sumatra,105.3,10293075,"Electricians, Painters, Maids / Housekeepers",27,0,0,0,2,0,49,0,0,0,0,0,0,0,0,0,0
+258,West Java,89.2,4500140,"Construction workers, Janitors, Bricklayers",0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,49
+259,Bali,106.6,959400,Construction workers,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,Sumatra,106.4,1276800,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0
+261,Kalimantan,127,16802100,"Janitors, Street cleaners, Carpenters",0,0,0,0,0,39,0,0,0,0,0,0,0,0,49,0,39
+262,Sumatra,88.7,2527950,"Farm laborers, Handymen",0,0,0,0,0,0,0,0,30,0,0,0,0,5,0,0,0
+263,Bali,86,7623900,"Scrap metal collectors, Farm laborers, Office / commercial cleaners",0,0,0,0,0,0,0,0,1,0,0,46,0,0,0,44,0
+264,East Java,97.3,2189250,"Plumbers, Maids / Housekeepers",14,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,West Java,90.4,7159680,"Welders, Office / commercial cleaners",0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,38,0
+266,Papua,103.9,8026275,"Painters, Street cleaners, Farm laborers",0,0,0,0,0,0,27,0,18,0,0,0,0,0,31,0,0
+267,East Java,113.6,17397840,"General Labor (misc.), Scrap metal collectors, Handymen",0,0,0,0,0,0,0,0,0,0,0,49,42,48,0,0,0
+268,Jakarta,101.4,10003110,"Scrap metal collectors, Plumbers, Seasonal crop pickers",0,0,0,11,0,0,0,0,0,42,0,49,0,0,0,0,0
+269,West Java,100.1,2672670,"General Labor (misc.), Farm laborers",0,0,0,0,0,0,0,0,23,0,0,0,9,0,0,0,0
+270,Bali,105.1,10199955,"Bricklayers, Farm laborers, Construction workers",0,15,24,0,0,0,0,0,45,0,0,0,0,0,0,0,0
+271,Kalimantan,97.6,12370800,"Electricians, Painters, Janitors",0,0,0,0,27,0,33,0,0,0,0,0,0,0,0,0,31
+272,Sulawesi,108.5,3743250,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46
+273,West Java,98.2,7055670,"Painters, General Labor (misc.)",0,0,0,0,0,0,43,0,0,0,0,0,7,0,0,0,0
+274,Papua,83.8,6683050,"Electricians, Maids / Housekeepers",21,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+275,Kalimantan,95.5,9096375,"Maids / Housekeepers, Painters",49,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0
+276,Jakarta,70.3,5469340,"Office / commercial cleaners, Plumbers, Seasonal crop pickers",0,0,0,14,0,0,0,0,0,41,0,0,0,0,0,28,0
+277,West Java,80.7,6217935,"Carpenters, Bricklayers, Street cleaners",0,0,24,0,0,5,0,0,0,0,0,0,0,0,37,0,0
+278,Central Java,147,6174000,Construction workers,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,Jakarta,95.4,7641540,"Welders, Construction workers, Waste collectors",0,12,0,0,0,0,0,13,0,0,43,0,0,0,0,0,0
+280,Sulawesi,89.4,5243310,"Waste collectors, General Labor (misc.), Maids / Housekeepers",4,0,0,0,0,0,0,0,0,0,14,0,41,0,0,0,0
+281,Nusa Tenggara,109.8,3952800,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0
+282,West Java,90.7,3129150,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46
+283,Kalimantan,97.1,3684945,"Farm laborers, General Labor (misc.), Office / commercial cleaners",0,0,0,0,0,0,0,0,18,0,0,0,7,0,0,19,0
+284,Bali,72,6249600,"Janitors, Electricians, Seasonal crop pickers",0,0,0,0,29,0,0,0,0,43,0,0,0,0,0,0,4
+285,Jakarta,137.4,12434700,"Bricklayers, Construction workers, Office / commercial cleaners",0,36,4,0,0,0,0,0,0,0,0,0,0,0,0,33,0
+286,Sulawesi,99,9355500,"Painters, Construction workers",0,38,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0
+287,Nusa Tenggara,110.6,829500,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+288,West Java,109.3,6115335,"Handymen, Janitors",0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,1
+289,West Java,117.4,5124510,"Maids / Housekeepers, Handymen, Seasonal crop pickers",27,0,0,0,0,0,0,0,0,31,0,0,0,4,0,0,0
+290,West Java,102.1,2695440,"Seasonal crop pickers, Welders",0,0,0,0,0,0,0,10,0,14,0,0,0,0,0,0,0
+291,Sumatra,121.6,1459200,Electricians,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+292,Sulawesi,115.9,231800,Electricians,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+293,East Java,99.8,5044890,"Painters, Janitors, Seasonal crop pickers",0,0,0,0,0,0,8,0,0,3,0,0,0,0,0,0,49
+294,Kalimantan,116.7,2660760,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0
+295,Bali,100.2,676350,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0
+296,Kalimantan,90.4,1084800,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0
+297,Jakarta,104.3,19139050,"Painters, Bricklayers, Plumbers",0,0,10,48,0,0,47,0,0,0,0,0,0,0,0,0,0
+298,Central Java,98.3,2565630,Waste collectors,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0
+299,Sumatra,70.6,3462930,"Janitors, Office / commercial cleaners, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,50,4
+300,East Java,115.7,1804920,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0
+301,Sulawesi,88.2,10694250,"Plumbers, Janitors",0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,39
+302,Kalimantan,95.6,4015200,Electricians,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+303,Nusa Tenggara,84.5,7972575,"Farm laborers, Bricklayers, Electricians",0,0,33,0,9,0,0,0,27,0,0,0,0,0,0,0,0
+304,Jakarta,138.4,11459520,"Construction workers, Seasonal crop pickers, Handymen",0,24,0,0,0,0,0,0,0,18,0,0,0,30,0,0,0
+305,Jakarta,98.7,1628550,Painters,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+306,Jakarta,79.4,3835020,"Carpenters, Street cleaners",0,0,0,0,0,9,0,0,0,0,0,0,0,0,44,0,0
+307,Jakarta,93.1,1759590,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0
+308,Sumatra,93.5,140250,Construction workers,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,Bali,98.4,3616200,"Seasonal crop pickers, Farm laborers, Street cleaners",0,0,0,0,0,0,0,0,14,20,0,0,0,0,19,0,0
+310,East Java,91.9,5569140,"Bricklayers, Maids / Housekeepers",6,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Kalimantan,110.7,2656800,"Bricklayers, Welders",0,0,12,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+312,Nusa Tenggara,117.9,6614190,"General Labor (misc.), Handymen, Waste collectors",0,0,0,0,0,0,0,0,0,0,22,0,6,25,0,0,0
+313,Bali,95,342000,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+314,East Java,114.2,14663280,"Welders, Seasonal crop pickers, Janitors",0,0,0,0,0,0,0,37,0,43,0,0,0,0,0,0,48
+315,Sumatra,49,6526800,"Handymen, Carpenters, Plumbers",0,0,0,39,0,24,0,0,0,0,0,0,0,12,0,0,0
+316,Sumatra,72.4,738480,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0
+317,Jakarta,87.8,4899240,"Welders, Seasonal crop pickers",0,0,0,0,0,0,0,27,0,12,0,0,0,0,0,0,0
+318,Papua,84.4,5000700,"Farm laborers, Janitors",0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,46
+319,Jakarta,102.7,5412290,Carpenters,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0
+320,Central Java,103.6,7614600,Construction workers,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,Sumatra,72,6372000,"Bricklayers, Carpenters, Welders",0,0,28,0,0,5,0,18,0,0,0,0,0,0,0,0,0
+322,Nusa Tenggara,88.6,1461900,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0
+323,Bali,113.1,2544750,Farm laborers,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+324,Jakarta,124.2,11178000,"Construction workers, Farm laborers",0,46,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0
+325,Central Java,109.7,8984430,"Janitors, Welders, Construction workers",0,15,0,0,0,0,0,23,0,0,0,0,0,0,0,0,24
+326,Sumatra,90,5913000,"Maids / Housekeepers, Seasonal crop pickers, Construction workers",22,28,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+327,East Java,106.4,12895680,"Maids / Housekeepers, Painters, Waste collectors",38,0,0,0,0,0,48,0,0,0,23,0,0,0,0,0,0
+328,Sulawesi,110.2,5669790,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0,0
+329,Sulawesi,116.8,5764080,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0
+330,Bali,100.4,10983760,"Painters, Electricians, Scrap metal collectors",0,0,0,0,25,0,20,0,0,0,0,28,0,0,0,0,0
+331,Kalimantan,86.3,6524280,"Plumbers, Welders, Waste collectors",0,0,0,9,0,0,0,9,0,0,46,0,0,0,0,0,0
+332,West Java,75.7,3156690,"Street cleaners, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,19,0,0,29,0,0
+333,Bali,97.9,6490770,Carpenters,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0
+334,Sumatra,100.9,4843200,Plumbers,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,East Java,130.4,11214400,Plumbers,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Bali,99.4,3727500,"Construction workers, Street cleaners, Maids / Housekeepers",2,20,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+337,East Java,106.7,3681150,"Maids / Housekeepers, Carpenters",46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,Jakarta,60.2,3467520,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0
+339,Central Java,80.1,4629780,Carpenters,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0
+340,Nusa Tenggara,97.7,7537555,"Farm laborers, Carpenters, Scrap metal collectors",0,0,0,0,0,40,0,0,8,0,0,3,0,0,0,0,0
+341,Jakarta,69.8,5496750,"Construction workers, Janitors",0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+342,Sumatra,111,16311450,"Electricians, Maids / Housekeepers, Welders",25,0,0,0,29,0,0,39,0,0,0,0,0,0,0,0,0
+343,Bali,104.1,208200,Plumbers,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,Nusa Tenggara,85.6,7203240,"Handymen, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,31,43,0,0,0
+345,Papua,54.4,1387200,Farm laborers,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+346,Jakarta,53.5,1685250,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0
+347,Central Java,92.4,13236300,"Maids / Housekeepers, Electricians, Janitors",45,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,26
+348,Nusa Tenggara,122.8,4126080,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0
+349,Sumatra,127.7,20368150,"General Labor (misc.), Farm laborers, Plumbers",0,0,0,43,0,0,0,0,49,0,0,0,35,0,0,0,0
+350,Papua,91.5,274500,Farm laborers,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+351,Papua,91.7,3768870,"Farm laborers, Welders",0,0,0,0,0,0,0,17,14,0,0,0,0,0,0,0,0
+352,Central Java,77.9,2535645,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0
+353,Kalimantan,67.9,3836350,"Waste collectors, Plumbers",0,0,0,17,0,0,0,0,0,0,25,0,0,0,0,0,0
+354,Sumatra,78.8,6146400,"Office / commercial cleaners, Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,50,0
+355,Nusa Tenggara,130.2,2636550,"Construction workers, Street cleaners, Waste collectors",0,7,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0
+356,West Java,78.9,4367115,"Street cleaners, Maids / Housekeepers, Handymen",4,0,0,0,0,0,0,0,0,0,0,0,0,38,9,0,0
+357,East Java,98.1,5297400,Welders,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0
+358,Sulawesi,80.2,3657120,"Janitors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,40
+359,Central Java,108.4,9756000,Welders,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+360,Central Java,82.2,6888360,"Carpenters, Farm laborers, Handymen",0,0,0,0,0,20,0,0,12,0,0,0,0,34,0,0,0
+361,Papua,94.2,13715520,"Seasonal crop pickers, Electricians, Welders",0,0,0,0,20,0,0,47,0,35,0,0,0,0,0,0,0
+362,Sumatra,115.7,8133710,"Office / commercial cleaners, Farm laborers, Electricians",0,0,0,0,20,0,0,0,26,0,0,0,0,0,0,12,0
+363,Kalimantan,93.2,932000,Electricians,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+364,Sulawesi,94.7,2556900,"Construction workers, Farm laborers",0,1,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0
+365,Kalimantan,125,7687500,"Street cleaners, Painters",0,0,0,0,0,0,36,0,0,0,0,0,0,0,10,0,0
+366,Jakarta,135.9,4892400,Waste collectors,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0
+367,Bali,105.1,11019735,"Maids / Housekeepers, Bricklayers",31,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,Bali,119.7,10868760,"Construction workers, Carpenters, Welders",0,16,0,0,0,34,0,5,0,0,0,0,0,0,0,0,0
+369,East Java,107.8,2026640,"Handymen, Plumbers",0,0,0,4,0,0,0,0,0,0,0,0,0,9,0,0,0
+370,Central Java,80.6,483600,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+371,Nusa Tenggara,91.2,4988640,"Waste collectors, Carpenters",0,0,0,0,0,11,0,0,0,0,40,0,0,0,0,0,0
+372,Papua,89.3,9550635,"Construction workers, Scrap metal collectors, Carpenters",0,38,0,0,0,9,0,0,0,0,0,33,0,0,0,0,0
+373,Papua,105.5,10507800,"Welders, Scrap metal collectors",0,0,0,0,0,0,0,46,0,0,0,16,0,0,0,0,0
+374,East Java,75.3,5399010,"Welders, Janitors",0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,14
+375,West Java,85.9,1236960,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0
+376,Papua,53.8,5310060,"Waste collectors, Painters",0,0,0,0,0,0,40,0,0,0,43,0,0,0,0,0,0
+377,Papua,136.9,13094485,"General Labor (misc.), Plumbers",0,0,0,41,0,0,0,0,0,0,0,0,13,0,0,0,0
+378,East Java,125.9,3273400,Electricians,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+379,Kalimantan,122.5,0,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,Sumatra,116.4,5150700,"Street cleaners, Janitors",0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,36
+381,Jakarta,68.7,3029670,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0
+382,East Java,108.8,8546240,"General Labor (misc.), Janitors, Plumbers",0,0,0,8,0,0,0,0,0,0,0,0,26,0,0,0,47
+383,Central Java,139.3,18464215,"General Labor (misc.), Electricians, Waste collectors",0,0,0,0,32,0,0,0,0,0,40,0,31,0,0,0,0
+384,Papua,98.4,1343160,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0
+385,West Java,104.7,1884600,Maids / Housekeepers,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,Bali,102,7879500,"Waste collectors, General Labor (misc.), Farm laborers",0,0,0,0,0,0,0,0,25,0,23,0,36,0,0,0,0
+387,Papua,95.2,2665600,Electricians,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+388,Bali,95.9,4550455,"Electricians, Scrap metal collectors",0,0,0,0,19,0,0,0,0,0,0,9,0,0,0,0,0
+389,Bali,101.8,1603350,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+390,Nusa Tenggara,80.5,4548250,"Janitors, Painters, Plumbers",0,0,0,14,0,0,15,0,0,0,0,0,0,0,0,0,8
+391,Jakarta,116,3340800,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0
+392,West Java,128.1,11817225,"Janitors, Painters",0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,37
+393,Central Java,72.2,9219940,"Handymen, Carpenters",0,0,0,0,0,49,0,0,0,0,0,0,0,37,0,0,0
+394,Kalimantan,91.9,14042320,"Bricklayers, Handymen, Maids / Housekeepers",24,0,44,0,0,0,0,0,0,0,0,0,0,50,0,0,0
+395,Nusa Tenggara,111.7,7595600,Electricians,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+396,Nusa Tenggara,101.6,4480560,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0
+397,Papua,106.1,8625930,"Street cleaners, Construction workers, General Labor (misc.)",0,16,0,0,0,0,0,0,0,0,0,0,46,0,12,0,0
+398,East Java,109.8,1894050,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0
+399,Central Java,96.5,5543925,"General Labor (misc.), Carpenters",0,0,0,0,0,6,0,0,0,0,0,0,45,0,0,0,0
+400,Jakarta,126.7,19055680,"Seasonal crop pickers, Plumbers, Painters",0,0,0,41,0,0,34,0,0,29,0,0,0,0,0,0,0
+401,Kalimantan,117.3,6568800,Electricians,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0
+402,Sulawesi,89.7,4772040,"Electricians, Office / commercial cleaners, Seasonal crop pickers",0,0,0,0,8,0,0,0,0,17,0,0,0,0,0,30,0
+403,East Java,103.7,466650,Waste collectors,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+404,Sulawesi,53.4,1001250,Farm laborers,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0
+405,Sumatra,68.1,2104290,"Seasonal crop pickers, Street cleaners",0,0,0,0,0,0,0,0,0,29,0,0,0,0,18,0,0
+406,Kalimantan,78.3,4658850,Bricklayers,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,Papua,153.3,20105295,"Painters, Carpenters, General Labor (misc.)",0,0,0,0,0,49,20,0,0,0,0,0,17,0,0,0,0
+408,Bali,62.3,623000,Electricians,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+409,Jakarta,50.9,0,Waste collectors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,Bali,98.3,958425,"Construction workers, General Labor (misc.)",0,3,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+411,Kalimantan,58.6,3779700,Construction workers,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,Sumatra,98.9,8505400,Electricians,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0
+413,Sumatra,77.1,2081700,Painters,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0
+414,Bali,92.8,4579680,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0
+415,Bali,97.4,4938180,"General Labor (misc.), Farm laborers",0,0,0,0,0,0,0,0,6,0,0,0,44,0,0,0,0
+416,Kalimantan,102.3,9437175,"Handymen, Construction workers, Maids / Housekeepers",39,18,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0
+417,Kalimantan,114.2,15125790,"Carpenters, Farm laborers, General Labor (misc.)",0,0,0,0,0,45,0,0,13,0,0,0,44,0,0,0,0
+418,Nusa Tenggara,107.2,675360,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+419,Kalimantan,112.5,5827500,"Plumbers, General Labor (misc.), Carpenters",0,0,0,3,0,1,0,0,0,0,0,0,42,0,0,0,0
+420,Papua,118.7,3845880,"Handymen, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,32,0,0,0,11,0,0,0
+421,Kalimantan,78.8,5803620,"Seasonal crop pickers, Office / commercial cleaners, General Labor (misc.)",0,0,0,0,0,0,0,0,0,48,0,0,35,0,0,9,0
+422,Bali,75.7,5291430,"Handymen, Janitors, Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,22,27,0,31
+423,Papua,119.9,4999830,"Farm laborers, General Labor (misc.)",0,0,0,0,0,0,0,0,50,0,0,0,4,0,0,0,0
+424,East Java,93.5,1851300,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0
+425,West Java,110.3,20256595,"Scrap metal collectors, Carpenters, Bricklayers",0,0,46,0,0,33,0,0,0,0,0,47,0,0,0,0,0
+426,West Java,102,9057600,"Carpenters, Plumbers",0,0,0,7,0,44,0,0,0,0,0,0,0,0,0,0,0
+427,Central Java,106.7,6476690,"Carpenters, Construction workers, Electricians",0,30,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0
+428,Jakarta,79.3,2993575,"Bricklayers, Maids / Housekeepers",5,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,East Java,85.5,6284250,Construction workers,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,Kalimantan,105,13702500,"Waste collectors, Carpenters, Office / commercial cleaners",0,0,0,0,0,45,0,0,0,0,25,0,0,0,0,35,0
+431,Sumatra,38.8,174600,Painters,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+432,Papua,126.2,6360480,"Scrap metal collectors, Farm laborers, Handymen",0,0,0,0,0,0,0,0,4,0,0,12,0,29,0,0,0
+433,West Java,114.3,3806190,"Janitors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,6
+434,West Java,148.3,11908490,"Electricians, Scrap metal collectors",0,0,0,0,16,0,0,0,0,0,0,46,0,0,0,0,0
+435,West Java,120.9,5349825,"Construction workers, Handymen, Janitors",0,15,0,0,0,0,0,0,0,0,0,0,0,10,0,0,13
+436,Jakarta,132.5,3975000,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+437,West Java,69,6479100,"Plumbers, Office / commercial cleaners",0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,31,0
+438,Central Java,114.2,5036220,"Scrap metal collectors, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,36,6,0,0,0,0
+439,Sulawesi,115.6,9883800,"Painters, Welders",0,0,0,0,0,0,21,30,0,0,0,0,0,0,0,0,0
+440,Central Java,114.9,603225,Farm laborers,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0
+441,Sulawesi,137.7,8881650,Construction workers,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,Central Java,67,7058450,"Plumbers, General Labor (misc.)",0,0,0,28,0,0,0,0,0,0,0,0,47,0,0,0,0
+443,Sumatra,129.1,1607295,"Street cleaners, Waste collectors",0,0,0,0,0,0,0,0,0,0,8,0,0,0,7,0,0
+444,West Java,96.6,8331750,"Electricians, Maids / Housekeepers",43,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+445,Bali,116.2,7308980,Carpenters,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0
+446,Bali,111.8,7781280,"Janitors, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,41
+447,Central Java,86.2,5249580,"Construction workers, Office / commercial cleaners",0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0
+448,Nusa Tenggara,108.9,9180270,"Handymen, Welders, Office / commercial cleaners",0,0,0,0,0,0,0,2,0,0,0,0,0,35,0,43,0
+449,Sumatra,115.1,978350,Carpenters,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+450,Jakarta,102.7,4621500,"Electricians, Maids / Housekeepers",4,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+451,Bali,103.1,8577920,"Handymen, Office / commercial cleaners, Electricians",0,0,0,0,17,0,0,0,0,0,0,0,0,32,0,12,0
+452,Nusa Tenggara,112.1,2824920,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0
+453,West Java,129,17950350,"Electricians, Janitors, Office / commercial cleaners",0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,46,5
+454,Bali,99.6,6125400,Construction workers,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,Jakarta,112.3,2582900,"Painters, Plumbers",0,0,0,4,0,0,10,0,0,0,0,0,0,0,0,0,0
+456,Jakarta,99.4,4458090,"General Labor (misc.), Waste collectors",0,0,0,0,0,0,0,0,0,0,44,0,5,0,0,0,0
+457,West Java,81.4,11949520,"Bricklayers, General Labor (misc.), Welders",0,0,47,0,0,0,0,36,0,0,0,0,2,0,0,0,0
+458,Jakarta,91.3,4587825,"Janitors, Farm laborers",0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,17
+459,Bali,93.8,7035000,"Welders, Carpenters",0,0,0,0,0,24,0,19,0,0,0,0,0,0,0,0,0
+460,Nusa Tenggara,107.1,6832980,"Office / commercial cleaners, Electricians, Painters",0,0,0,0,4,0,36,0,0,0,0,0,0,0,0,2,0
+461,Kalimantan,85.7,2571000,Electricians,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+462,Papua,108.1,2594400,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+463,Jakarta,76.9,2614600,Carpenters,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0
+464,Central Java,67.2,604800,Waste collectors,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0
+465,Sumatra,118.5,11613000,"Waste collectors, Plumbers",0,0,0,31,0,0,0,0,0,0,40,0,0,0,0,0,0
+466,East Java,102.9,13407870,"Carpenters, Street cleaners, Janitors",0,0,0,0,0,44,0,0,0,0,0,0,0,0,37,0,37
+467,Bali,91.9,4438770,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0
+468,Bali,98.2,8184970,"Carpenters, Janitors, Farm laborers",0,0,0,0,0,38,0,0,2,0,0,0,0,0,0,0,23
+469,Sumatra,69.4,3102180,"Office / commercial cleaners, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,31,0
+470,East Java,115.6,11993500,"Street cleaners, Electricians",0,0,0,0,38,0,0,0,0,0,0,0,0,0,37,0,0
+471,Sulawesi,81.8,257670,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+472,Kalimantan,75.6,170100,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+473,East Java,128.1,14295960,"Janitors, Carpenters, Office / commercial cleaners",0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,27,28
+474,West Java,70.3,8573085,"Painters, Janitors, Welders",0,0,0,0,0,0,45,19,0,0,0,0,0,0,0,0,27
+475,West Java,111,18625800,"Janitors, Welders, Carpenters",0,0,0,0,0,47,0,33,0,0,0,0,0,0,0,0,38
+476,West Java,136.8,23529600,"Plumbers, Electricians",0,0,0,48,38,0,0,0,0,0,0,0,0,0,0,0,0
+477,Sulawesi,114.4,17754880,"Carpenters, Welders",0,0,0,0,0,50,0,39,0,0,0,0,0,0,0,0,0
+478,Nusa Tenggara,101.7,3803580,Carpenters,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0
+479,Bali,113.7,11944185,"Janitors, Carpenters, Plumbers",0,0,0,26,0,29,0,0,0,0,0,0,0,0,0,0,5
+480,Bali,96.4,8213280,"Welders, Seasonal crop pickers, Bricklayers",0,0,42,0,0,0,0,5,0,8,0,0,0,0,0,0,0
+481,Papua,79,1955250,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+482,Nusa Tenggara,126.1,4325230,"Bricklayers, Farm laborers, Street cleaners",0,0,14,0,0,0,0,0,7,0,0,0,0,0,7,0,0
+483,Papua,120.8,3624000,Construction workers,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,Papua,92.3,1107600,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0
+485,Central Java,81.5,4034250,"Farm laborers, Maids / Housekeepers, Street cleaners",15,0,0,0,0,0,0,0,7,0,0,0,0,0,44,0,0
+486,Sulawesi,73.8,2302560,"General Labor (misc.), Carpenters, Farm laborers",0,0,0,0,0,6,0,0,0,0,0,0,20,0,0,0,0
+487,Papua,103.1,1113480,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0
+488,Jakarta,113.8,3482280,Carpenters,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0
+489,Sulawesi,120.2,5048400,Painters,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0
+490,Jakarta,73.7,10144805,"Maids / Housekeepers, Plumbers, Waste collectors",31,0,0,41,0,0,0,0,0,0,36,0,0,0,0,0,0
+491,Sulawesi,81.4,2364670,"Janitors, Carpenters",0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,7
+492,Sumatra,85.7,10301140,"Office / commercial cleaners, Carpenters, Bricklayers",0,0,34,0,0,24,0,0,0,0,0,0,0,0,0,24,0
+493,Kalimantan,138,15318000,"Street cleaners, Office / commercial cleaners, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,37,0,0,41,46,0
+494,Kalimantan,112.5,9343125,"Maids / Housekeepers, Bricklayers",45,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,Papua,112.8,3468600,"Janitors, Construction workers",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+496,West Java,125.5,18799900,"Plumbers, Street cleaners, Scrap metal collectors",0,0,0,35,0,0,0,0,0,0,0,41,0,0,49,0,0
+497,Kalimantan,110.5,3193450,Bricklayers,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,West Java,132,1188000,Farm laborers,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+499,Sulawesi,113.2,3905400,"Carpenters, Waste collectors, Seasonal crop pickers",0,0,0,0,0,9,0,0,0,2,20,0,0,0,0,0,0
+500,Papua,104.9,3068325,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+501,Nusa Tenggara,105.7,6822935,"Bricklayers, Maids / Housekeepers",43,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,Bali,78.1,2050125,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0
+503,East Java,111,1598400,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0
+504,Papua,97.2,9720000,Electricians,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+505,Sulawesi,79.4,4406700,"Maids / Housekeepers, Construction workers",32,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,Bali,108.7,14603845,"Janitors, Scrap metal collectors, Plumbers",0,0,0,35,0,0,0,0,0,0,0,32,0,0,0,0,41
+507,Sulawesi,85.2,4140720,"Janitors, Farm laborers, Carpenters",0,0,0,0,0,3,0,0,17,0,0,0,0,0,0,0,41
+508,Central Java,96.7,2683425,Maids / Housekeepers,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,Kalimantan,84.5,4072900,"Maids / Housekeepers, Construction workers, Bricklayers",42,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,Nusa Tenggara,107.7,2843280,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0
+511,Central Java,103.9,6005420,Carpenters,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0
+512,Jakarta,94.5,3146850,"Carpenters, Plumbers, Office / commercial cleaners",0,0,0,2,0,13,0,0,0,0,0,0,0,0,0,8,0
+513,Sumatra,93.2,1747500,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0
+514,West Java,103,12092200,"Electricians, Waste collectors",0,0,0,0,38,0,0,0,0,0,46,0,0,0,0,0,0
+515,East Java,118.6,3225920,"Bricklayers, Maids / Housekeepers",34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,Sumatra,124.9,9180150,"Painters, Construction workers",0,23,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+517,Jakarta,134.5,24129300,"Plumbers, Bricklayers, Street cleaners",0,0,37,47,0,0,0,0,0,0,0,0,0,0,30,0,0
+518,Bali,96.8,0,Maids / Housekeepers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+519,West Java,97,8885200,"Seasonal crop pickers, Plumbers",0,0,0,44,0,0,0,0,0,6,0,0,0,0,0,0,0
+520,East Java,80.3,2168100,"Farm laborers, Plumbers",0,0,0,3,0,0,0,0,28,0,0,0,0,0,0,0,0
+521,Central Java,68,2264400,"Construction workers, Welders",0,21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+522,Sumatra,72.1,3172400,Electricians,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+523,Sulawesi,99.2,595200,Plumbers,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,Sulawesi,95.8,1465740,Waste collectors,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0
+525,Sulawesi,86.7,4759830,"Carpenters, Scrap metal collectors",0,0,0,0,0,15,0,0,0,0,0,28,0,0,0,0,0
+526,Kalimantan,115.4,173100,Painters,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+527,Sumatra,101.2,8015040,"Waste collectors, Handymen",0,0,0,0,0,0,0,0,0,0,28,0,0,45,0,0,0
+528,Nusa Tenggara,83.2,2620800,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0
+529,Sumatra,117.9,2358000,"Carpenters, Construction workers",0,2,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+530,Nusa Tenggara,88.1,8810000,"Janitors, Handymen, Electricians",0,0,0,0,8,0,0,0,0,0,0,0,0,45,0,0,40
+531,Sulawesi,134.5,9953000,"Janitors, Electricians",0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,48
+532,Jakarta,84.8,2187840,"Seasonal crop pickers, Handymen",0,0,0,0,0,0,0,0,0,23,0,0,0,10,0,0,0
+533,Sumatra,79.7,1853025,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0
+534,Bali,68.9,2204800,Plumbers,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,Bali,119.1,2411775,"Welders, Scrap metal collectors, Seasonal crop pickers",0,0,0,0,0,0,0,5,0,10,0,5,0,0,0,0,0
+536,East Java,91.8,6196500,Painters,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+537,Sumatra,115.4,1454040,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+538,Jakarta,60.2,3151470,"Office / commercial cleaners, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,15,0
+539,Sumatra,94.9,15316860,"Office / commercial cleaners, Plumbers, Welders",0,0,0,33,0,0,0,42,0,0,0,0,0,0,0,22,0
+540,Sumatra,101.3,1717035,"Scrap metal collectors, Handymen",0,0,0,0,0,0,0,0,0,0,0,7,0,8,0,0,0
+541,Kalimantan,121,6969600,"Janitors, Farm laborers, Handymen",0,0,0,0,0,0,0,0,31,0,0,0,0,28,0,0,1
+542,East Java,101.3,4832010,"Welders, Office / commercial cleaners, Scrap metal collectors",0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,5,0
+543,Sulawesi,75.3,3399795,"Office / commercial cleaners, Janitors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,13,15
+544,West Java,143.3,7781190,"General Labor (misc.), Construction workers",0,4,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0
+545,West Java,95.7,3961980,"Seasonal crop pickers, Handymen",0,0,0,0,0,0,0,0,0,29,0,0,0,20,0,0,0
+546,West Java,92,2760000,Farm laborers,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0
+547,Sumatra,129,5979150,"Scrap metal collectors, Painters",0,0,0,0,0,0,19,0,0,0,0,17,0,0,0,0,0
+548,Nusa Tenggara,101.9,7015815,"General Labor (misc.), Maids / Housekeepers, Office / commercial cleaners",35,0,0,0,0,0,0,0,0,0,0,0,38,0,0,3,0
+549,Bali,105,882000,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0
+550,Kalimantan,124.7,17052725,"Electricians, Scrap metal collectors, General Labor (misc.)",0,0,0,0,29,0,0,0,0,0,0,32,43,0,0,0,0
+551,Bali,112.1,4540050,"Painters, Plumbers",0,0,0,18,0,0,3,0,0,0,0,0,0,0,0,0,0
+552,Jakarta,81.5,0,Plumbers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,Central Java,118.7,14125300,"Seasonal crop pickers, Bricklayers, Janitors",0,0,40,0,0,0,0,0,0,30,0,0,0,0,0,0,44
+554,East Java,93.6,6945120,"Welders, Carpenters, Janitors",0,0,0,0,0,14,0,8,0,0,0,0,0,0,0,0,48
+555,Sumatra,102.8,3392400,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44
+556,Sulawesi,91.2,8472480,"Electricians, Construction workers, Office / commercial cleaners",0,47,0,0,4,0,0,0,0,0,0,0,0,0,0,16,0
+557,Kalimantan,99.7,14655900,"Plumbers, Construction workers, Electricians",0,42,0,36,6,0,0,0,0,0,0,0,0,0,0,0,0
+558,Central Java,97.1,9758550,"Electricians, Bricklayers, Farm laborers",0,0,5,0,31,0,0,0,40,0,0,0,0,0,0,0,0
+559,Sumatra,111.6,10155600,"Bricklayers, Seasonal crop pickers",0,0,50,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+560,Nusa Tenggara,76.4,5974480,Bricklayers,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+561,Kalimantan,85.3,2059995,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0
+562,Jakarta,70,3979500,"Farm laborers, Bricklayers",0,0,33,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+563,Jakarta,69,2018250,"Painters, Street cleaners",0,0,0,0,0,0,19,0,0,0,0,0,0,0,1,0,0
+564,Sulawesi,70,1207500,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0
+565,East Java,95.5,2721750,"Janitors, Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,34
+566,East Java,80.1,6824520,"Seasonal crop pickers, Office / commercial cleaners, Waste collectors",0,0,0,0,0,0,0,0,0,19,41,0,0,0,0,41,0
+567,Bali,86.1,1730610,"Seasonal crop pickers, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,5,0
+568,Central Java,38,3933000,"Painters, Office / commercial cleaners",0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,45,0
+569,Central Java,132,12777600,"Scrap metal collectors, Electricians, Seasonal crop pickers",0,0,0,0,40,0,0,0,0,21,0,4,0,0,0,0,0
+570,Sulawesi,82.6,13951140,"Handymen, Carpenters, Painters",0,0,0,0,0,39,30,0,0,0,0,0,0,48,0,0,0
+571,Central Java,109.9,18199440,"Plumbers, Electricians, Carpenters",0,0,0,45,31,8,0,0,0,0,0,0,0,0,0,0,0
+572,Nusa Tenggara,87.6,1384080,"Seasonal crop pickers, Handymen, Plumbers",0,0,0,1,0,0,0,0,0,17,0,0,0,3,0,0,0
+573,Sulawesi,68.3,3442320,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0
+574,Sulawesi,91.1,7379100,"Maids / Housekeepers, Janitors, Painters",45,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,47
+575,Kalimantan,108.1,3026800,Plumbers,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+576,Nusa Tenggara,64.8,1049760,Welders,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+577,West Java,45.2,2888280,"Handymen, Construction workers",0,17,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0
+578,Nusa Tenggara,99.5,3462600,"Seasonal crop pickers, Welders, Farm laborers",0,0,0,0,0,0,0,12,4,17,0,0,0,0,0,0,0
+579,East Java,117.9,13794300,"Janitors, Plumbers",0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,28
+580,Papua,87,3523500,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0
+581,Sulawesi,69.1,6840900,"Plumbers, Handymen, Bricklayers",0,0,10,17,0,0,0,0,0,0,0,0,0,40,0,0,0
+582,Jakarta,88.8,9679200,"Painters, Construction workers, Plumbers",0,48,0,14,0,0,6,0,0,0,0,0,0,0,0,0,0
+583,Nusa Tenggara,109.1,2225640,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0
+584,Nusa Tenggara,74.6,1275660,"Waste collectors, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18,0
+585,Bali,93,3361950,"Office / commercial cleaners, Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,21,0
+586,Central Java,78.3,4854600,Plumbers,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,Sulawesi,84,2822400,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0
+588,Nusa Tenggara,104.9,3587580,Welders,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0
+589,Nusa Tenggara,83.6,376200,Construction workers,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+590,Kalimantan,98.1,12988440,"Waste collectors, Handymen, Carpenters",0,0,0,0,0,41,0,0,0,0,43,0,0,20,0,0,0
+591,Papua,87.5,236250,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+592,Nusa Tenggara,70.9,1825675,"Plumbers, General Labor (misc.)",0,0,0,5,0,0,0,0,0,0,0,0,15,0,0,0,0
+593,Sumatra,107.7,9256815,"Janitors, Farm laborers, Handymen",0,0,0,0,0,0,0,0,37,0,0,0,0,36,0,0,20
+594,Sumatra,108.1,12161250,"Plumbers, Scrap metal collectors, Painters",0,0,0,9,0,0,49,0,0,0,0,20,0,0,0,0,0
+595,Kalimantan,76.2,8130540,"General Labor (misc.), Painters, Carpenters",0,0,0,0,0,31,29,0,0,0,0,0,10,0,0,0,0
+596,Sumatra,110,198000,Welders,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+597,Sulawesi,52,3026400,"Farm laborers, Painters, Office / commercial cleaners",0,0,0,0,0,0,5,0,10,0,0,0,0,0,0,48,0
+598,Bali,89.6,7056000,"Maids / Housekeepers, Electricians",25,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+599,Sulawesi,51.7,5314760,"Carpenters, Waste collectors, Seasonal crop pickers",0,0,0,0,0,40,0,0,0,4,36,0,0,0,0,0,0
+600,Central Java,68.3,4569270,"Electricians, Waste collectors",0,0,0,0,15,0,0,0,0,0,41,0,0,0,0,0,0
+601,Bali,126.2,10815340,"Carpenters, Welders",0,0,0,0,0,7,0,41,0,0,0,0,0,0,0,0,0
+602,Central Java,94.4,8694240,"Janitors, Scrap metal collectors, Waste collectors",0,0,0,0,0,0,0,0,0,0,37,26,0,0,0,0,42
+603,Bali,99.5,8820675,"Maids / Housekeepers, Carpenters",23,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0
+604,Bali,129.4,3357930,"Farm laborers, Waste collectors, Office / commercial cleaners",0,0,0,0,0,0,0,0,7,0,16,0,0,0,0,7,0
+605,Papua,118.2,3811950,"Maids / Housekeepers, Farm laborers, Scrap metal collectors",7,0,0,0,0,0,0,0,22,0,0,10,0,0,0,0,0
+606,Jakarta,81.9,9221940,"Maids / Housekeepers, Electricians, Waste collectors",4,0,0,0,35,0,0,0,0,0,44,0,0,0,0,0,0
+607,Nusa Tenggara,102.5,2921250,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0
+608,Nusa Tenggara,88.5,5641875,"Street cleaners, Farm laborers",0,0,0,0,0,0,0,0,50,0,0,0,0,0,35,0,0
+609,Sulawesi,139.5,3264300,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0
+610,East Java,96.3,4001265,"Janitors, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,11
+611,Central Java,129.4,12519450,"Farm laborers, Plumbers, Scrap metal collectors",0,0,0,33,0,0,0,0,27,0,0,10,0,0,0,0,0
+612,Nusa Tenggara,124.1,12968450,"Painters, Electricians",0,0,0,0,44,0,11,0,0,0,0,0,0,0,0,0,0
+613,Papua,105.1,5843560,"Scrap metal collectors, Carpenters",0,0,0,0,0,8,0,0,0,0,0,40,0,0,0,0,0
+614,East Java,102.2,12938520,"Painters, Bricklayers",0,0,48,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+615,East Java,107.2,4212960,"Scrap metal collectors, Janitors",0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,2
+616,Sulawesi,101.3,6427485,"General Labor (misc.), Plumbers",0,0,0,27,0,0,0,0,0,0,0,0,9,0,0,0,0
+617,Kalimantan,87.3,8721270,"Street cleaners, Welders, Painters",0,0,0,0,0,0,23,28,0,0,0,0,0,0,20,0,0
+618,Sulawesi,48,3590400,Bricklayers,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+619,East Java,141.6,8326080,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0
+620,Papua,68.9,6845215,"Scrap metal collectors, Bricklayers, General Labor (misc.)",0,0,22,0,0,0,0,0,0,0,0,25,34,0,0,0,0
+621,Bali,108.2,2164000,Plumbers,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+622,East Java,76.7,6538675,"Street cleaners, Plumbers",0,0,0,25,0,0,0,0,0,0,0,0,0,0,47,0,0
+623,Bali,115.2,4475520,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0
+624,Sulawesi,89.9,1887900,Painters,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+625,Nusa Tenggara,111.4,10471600,"Handymen, Plumbers",0,0,0,35,0,0,0,0,0,0,0,0,0,20,0,0,0
+626,Sulawesi,104.6,3305360,"Bricklayers, Construction workers",0,12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+627,Sulawesi,100.2,631260,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+628,West Java,90.7,1632600,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0
+629,West Java,104.3,891765,"General Labor (misc.), Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,6,0
+630,Jakarta,89.1,668250,"Bricklayers, Seasonal crop pickers",0,0,3,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+631,Jakarta,110.7,7715790,Bricklayers,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,Kalimantan,55.6,7567160,"Welders, Street cleaners, Bricklayers",0,0,43,0,0,0,0,15,0,0,0,0,0,0,48,0,0
+633,West Java,70.2,7725510,"Janitors, Scrap metal collectors, Bricklayers",0,0,20,0,0,0,0,0,0,0,0,46,0,0,0,0,37
+634,Papua,84,10021200,"Bricklayers, Construction workers, Welders",0,24,13,0,0,0,0,34,0,0,0,0,0,0,0,0,0
+635,Sumatra,68.3,973275,Maids / Housekeepers,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,Kalimantan,77.5,6192250,Carpenters,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0
+637,Sulawesi,115.2,6289920,"Painters, Waste collectors, Carpenters",0,0,0,0,0,15,11,0,0,0,14,0,0,0,0,0,0
+638,Sumatra,87.8,6321600,Electricians,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0
+639,Kalimantan,85.7,18939700,"Carpenters, Plumbers, Electricians",0,0,0,37,48,30,0,0,0,0,0,0,0,0,0,0,0
+640,Bali,110.1,1651500,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+641,Central Java,63.3,1696440,"Office / commercial cleaners, Bricklayers",0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+642,Sumatra,62.1,2542995,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0
+643,Jakarta,93,5761350,"Janitors, Maids / Housekeepers, Waste collectors",39,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,34
+644,Jakarta,96.4,4270520,"Electricians, Office / commercial cleaners, Plumbers",0,0,0,8,2,0,0,0,0,0,0,0,0,0,0,27,0
+645,Papua,76.6,482580,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+646,Jakarta,108,5378400,"Street cleaners, Seasonal crop pickers, Construction workers",0,15,0,0,0,0,0,0,0,33,0,0,0,0,10,0,0
+647,Kalimantan,85.7,3702240,Welders,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0
+648,Sulawesi,118,106200,Waste collectors,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+649,Nusa Tenggara,100.5,7989750,"Bricklayers, Seasonal crop pickers, Handymen",0,0,39,0,0,0,0,0,0,22,0,0,0,0,0,0,0
+650,Kalimantan,75.2,2368800,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0
+651,Jakarta,95.1,599130,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+652,Sulawesi,66.4,996000,Construction workers,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,Kalimantan,130.9,6126120,"Construction workers, Handymen",0,12,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0
+654,East Java,92.7,5283900,"Construction workers, Farm laborers",0,19,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0
+655,Jakarta,94,3750600,"Waste collectors, Janitors",0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,46
+656,Bali,111.8,13499850,"Handymen, General Labor (misc.), Waste collectors",0,0,0,0,0,0,0,0,0,0,48,0,43,27,0,0,0
+657,Bali,81,1514700,Bricklayers,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+658,Central Java,76.6,13577350,"Painters, Electricians, Janitors",0,0,0,0,35,0,50,0,0,0,0,0,0,0,0,0,43
+659,Jakarta,96.7,1740600,Waste collectors,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0
+660,Central Java,131.8,751260,"Carpenters, Plumbers",0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+661,Sumatra,98.1,8681850,"Construction workers, Plumbers",0,47,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,Kalimantan,118.8,8286300,"Construction workers, Maids / Housekeepers",43,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,West Java,78.9,7692750,"Construction workers, Seasonal crop pickers, Street cleaners",0,32,0,0,0,0,0,0,0,40,0,0,0,0,34,0,0
+664,Central Java,110.7,2739825,Maids / Housekeepers,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+665,Jakarta,96.8,9713880,"Plumbers, General Labor (misc.), Painters",0,0,0,36,0,0,7,0,0,0,0,0,17,0,0,0,0
+666,Jakarta,105.8,444360,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+667,Sulawesi,93.1,11320960,"Welders, Bricklayers",0,0,44,0,0,0,0,26,0,0,0,0,0,0,0,0,0
+668,Kalimantan,84.8,5851200,Painters,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0
+669,Sulawesi,92.2,2572380,"Street cleaners, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,8,0,26,0,0
+670,Sumatra,105.7,6421275,"Janitors, Street cleaners, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,35,0,0,26,0,6
+671,Kalimantan,114.3,6858000,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0
+672,Central Java,97.4,2337600,"Seasonal crop pickers, Painters",0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0
+673,West Java,142.4,2420800,Bricklayers,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+674,Sumatra,98.1,3090150,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0
+675,Bali,99.6,373500,Maids / Housekeepers,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,Kalimantan,94.5,1445850,"Farm laborers, Janitors, Waste collectors",0,0,0,0,0,0,0,0,6,0,2,0,0,0,0,0,12
+677,Papua,151.4,2157450,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0
+678,Sulawesi,111.6,10964700,"Janitors, Bricklayers, Painters",0,0,30,0,0,0,16,0,0,0,0,0,0,0,0,0,31
+679,West Java,143.9,1942650,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+680,West Java,92.1,5277330,"Scrap metal collectors, Construction workers",0,6,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0
+681,East Java,92.6,10019320,"Electricians, General Labor (misc.)",0,0,0,0,31,0,0,0,0,0,0,0,44,0,0,0,0
+682,West Java,91.3,8764800,Electricians,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0
+683,Sulawesi,67.5,4218750,"Carpenters, Farm laborers, Office / commercial cleaners",0,0,0,0,0,14,0,0,36,0,0,0,0,0,0,13,0
+684,Nusa Tenggara,114.4,5491200,"Construction workers, Street cleaners",0,23,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0
+685,Central Java,113.3,9789120,"Waste collectors, Carpenters",0,0,0,0,0,36,0,0,0,0,28,0,0,0,0,0,0
+686,Nusa Tenggara,136.8,13611600,"Maids / Housekeepers, Electricians",2,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0
+687,Kalimantan,71.1,5076540,"Painters, Handymen, Office / commercial cleaners",0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,26,0
+688,West Java,107.6,6181620,"Seasonal crop pickers, Maids / Housekeepers",43,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0
+689,Sulawesi,93.5,11238700,"Handymen, Bricklayers, Seasonal crop pickers",0,0,46,0,0,0,0,0,0,12,0,0,0,29,0,0,0
+690,Kalimantan,76.6,275760,Waste collectors,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+691,Bali,85.4,3509940,"Painters, Street cleaners, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,41,0,0,0,0,22,0,0
+692,East Java,114.5,5450200,"Street cleaners, Maids / Housekeepers, Carpenters",32,0,0,0,0,13,0,0,0,0,0,0,0,0,2,0,0
+693,Sulawesi,122.3,5136600,"Farm laborers, General Labor (misc.), Seasonal crop pickers",0,0,0,0,0,0,0,0,13,10,0,0,25,0,0,0,0
+694,Kalimantan,128.5,9059250,Painters,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0
+695,Nusa Tenggara,93.1,1117200,Plumbers,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,Sulawesi,55.5,7331550,"Plumbers, Scrap metal collectors, Office / commercial cleaners",0,0,0,47,0,0,0,0,0,0,0,14,0,0,0,26,0
+697,Sumatra,102.4,5099520,"Scrap metal collectors, Janitors, Bricklayers",0,0,6,0,0,0,0,0,0,0,0,22,0,0,0,0,22
+698,East Java,98.6,1380400,Electricians,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+699,Nusa Tenggara,82.6,6219780,"Farm laborers, Waste collectors, Janitors",0,0,0,0,0,0,0,0,27,0,47,0,0,0,0,0,17
+700,Nusa Tenggara,114.2,4248240,"Office / commercial cleaners, Maids / Housekeepers, Painters",6,0,0,0,0,0,5,0,0,0,0,0,0,0,0,28,0
+701,Papua,118.9,11378730,"Construction workers, Handymen",0,47,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0
+702,Papua,118.6,9926820,"General Labor (misc.), Office / commercial cleaners, Handymen",0,0,0,0,0,0,0,0,0,0,0,0,36,6,0,43,0
+703,Central Java,110.8,10526000,"Plumbers, Electricians, Janitors",0,0,0,13,30,0,0,0,0,0,0,0,0,0,0,0,12
+704,Papua,94.4,13848480,"Construction workers, Welders, Plumbers",0,39,0,18,0,0,0,29,0,0,0,0,0,0,0,0,0
+705,Nusa Tenggara,99.6,209160,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+706,Bali,132.7,4485260,"Electricians, Seasonal crop pickers",0,0,0,0,16,0,0,0,0,3,0,0,0,0,0,0,0
+707,Papua,77,3187800,Welders,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0
+708,Papua,134.5,7626150,"Handymen, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,15,0
+709,Kalimantan,109.3,7836810,"Scrap metal collectors, Waste collectors, Farm laborers",0,0,0,0,0,0,0,0,23,0,8,45,0,0,0,0,0
+710,Sulawesi,143.5,1700475,"Farm laborers, Office / commercial cleaners",0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,9,0
+711,Kalimantan,104.7,8370765,"Office / commercial cleaners, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,48,0
+712,Bali,123.5,7206225,"Handymen, Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,43,9,0,0
+713,Bali,100.9,2401420,Carpenters,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+714,West Java,139.1,3150615,"Scrap metal collectors, Maids / Housekeepers",19,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+715,Central Java,70.4,3738240,"Street cleaners, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,17,0,47,0,0
+716,Jakarta,93.8,9942800,"Maids / Housekeepers, Seasonal crop pickers, Bricklayers",42,0,35,0,0,0,0,0,0,25,0,0,0,0,0,0,0
+717,Sulawesi,63.4,5249520,Welders,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0
+718,Papua,93.1,3239880,"Seasonal crop pickers, Handymen",0,0,0,0,0,0,0,0,0,32,0,0,0,13,0,0,0
+719,West Java,88,4686000,"Maids / Housekeepers, Farm laborers",50,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0
+720,East Java,78.6,2063250,"Street cleaners, Carpenters",0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0
+721,Bali,107.3,5150400,"Farm laborers, General Labor (misc.), Scrap metal collectors",0,0,0,0,0,0,0,0,8,0,0,8,32,0,0,0,0
+722,East Java,67.8,1881450,"Farm laborers, Street cleaners",0,0,0,0,0,0,0,0,16,0,0,0,0,0,21,0,0
+723,Central Java,88,5984000,Bricklayers,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+724,West Java,115.6,1676200,"Plumbers, Painters",0,0,0,5,0,0,3,0,0,0,0,0,0,0,0,0,0
+725,Papua,66.6,2277720,"Waste collectors, Painters",0,0,0,0,0,0,15,0,0,0,13,0,0,0,0,0,0
+726,Sumatra,127,10363200,Carpenters,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0
+727,Kalimantan,84.5,5703750,Painters,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0
+728,Bali,78.7,2833200,Electricians,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+729,Central Java,60.2,1179920,"Handymen, Electricians",0,0,0,0,2,0,0,0,0,0,0,0,0,13,0,0,0
+730,Nusa Tenggara,91.6,8555440,"Seasonal crop pickers, Plumbers",0,0,0,32,0,0,0,0,0,49,0,0,0,0,0,0,0
+731,Central Java,103.7,12661770,"Scrap metal collectors, General Labor (misc.), Painters",0,0,0,0,0,0,38,0,0,0,0,27,35,0,0,0,0
+732,Sulawesi,100.7,11026650,"Janitors, Painters, Welders",0,0,0,0,0,0,12,30,0,0,0,0,0,0,0,0,50
+733,Jakarta,108.4,8861700,"Waste collectors, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,36,47,0,0,0,0,0
+734,Nusa Tenggara,100,2250000,"Construction workers, Painters",0,1,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+735,Central Java,58.7,3492650,Carpenters,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0
+736,Sumatra,127.1,2592840,Carpenters,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+737,Nusa Tenggara,123.2,11217360,"Maids / Housekeepers, Handymen, Street cleaners",43,0,0,0,0,0,0,0,0,0,0,0,0,44,8,0,0
+738,Central Java,95,6640500,"Seasonal crop pickers, Carpenters",0,0,0,0,0,39,0,0,0,6,0,0,0,0,0,0,0
+739,West Java,137.6,2270400,Maids / Housekeepers,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+740,Central Java,92.5,12820500,"Janitors, Scrap metal collectors, Handymen",0,0,0,0,0,0,0,0,0,0,0,50,0,48,0,0,38
+741,East Java,101.1,10787370,"Carpenters, Handymen",0,0,0,0,0,43,0,0,0,0,0,0,0,28,0,0,0
+742,Kalimantan,81.8,6278150,"Street cleaners, Bricklayers, Office / commercial cleaners",0,0,5,0,0,0,0,0,0,0,0,0,0,0,31,50,0
+743,East Java,91.1,4167825,"Welders, Scrap metal collectors",0,0,0,0,0,0,0,5,0,0,0,35,0,0,0,0,0
+744,Nusa Tenggara,93.7,9257560,"Plumbers, Seasonal crop pickers",0,0,0,47,0,0,0,0,0,8,0,0,0,0,0,0,0
+745,Sumatra,94.9,6832800,Welders,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0
+746,Central Java,113,8271600,"Welders, Plumbers",0,0,0,33,0,0,0,4,0,0,0,0,0,0,0,0,0
+747,Sulawesi,76.4,4927800,"General Labor (misc.), Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,18,0
+748,East Java,108.3,12876870,"Scrap metal collectors, Electricians, Street cleaners",0,0,0,0,41,0,0,0,0,0,0,13,0,0,31,0,0
+749,Sumatra,129.6,972000,Farm laborers,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+750,West Java,75.5,6976200,"Welders, Handymen",0,0,0,0,0,0,0,32,0,0,0,0,0,29,0,0,0
+751,Jakarta,66.5,2862825,"General Labor (misc.), Waste collectors",0,0,0,0,0,0,0,0,0,0,14,0,29,0,0,0,0
+752,Sumatra,82.9,12791470,"Carpenters, Bricklayers, Electricians",0,0,27,0,44,12,0,0,0,0,0,0,0,0,0,0,0
+753,Sulawesi,92.1,9210000,Plumbers,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0
+754,Sulawesi,126,6148800,"Electricians, Bricklayers",0,0,4,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+755,Jakarta,68.1,4147290,"Janitors, Welders, Bricklayers",0,0,18,0,0,0,0,16,0,0,0,0,0,0,0,0,2
+756,Nusa Tenggara,113.7,5014170,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0
+757,Bali,98.3,6089685,"Scrap metal collectors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,35,0,39,0,0,0,0,0
+758,Nusa Tenggara,132.6,1750320,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0
+759,West Java,95,6080000,"Handymen, Electricians",0,0,0,0,20,0,0,0,0,0,0,0,0,20,0,0,0
+760,Kalimantan,74.8,897600,Maids / Housekeepers,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,Bali,113.4,9151380,"General Labor (misc.), Carpenters",0,0,0,0,0,24,0,0,0,0,0,0,38,0,0,0,0
+762,Bali,103.4,7848060,"Maids / Housekeepers, Seasonal crop pickers, Waste collectors",40,0,0,0,0,0,0,0,0,27,33,0,0,0,0,0,0
+763,Sumatra,124.1,11417200,"Plumbers, Electricians",0,0,0,23,23,0,0,0,0,0,0,0,0,0,0,0,0
+764,Sulawesi,99,9533700,"Electricians, Painters, Waste collectors",0,0,0,0,9,0,27,0,0,0,42,0,0,0,0,0,0
+765,Sulawesi,121.5,5370300,Carpenters,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0
+766,Central Java,82.2,4537440,"Office / commercial cleaners, Painters",0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,8,0
+767,Bali,108.3,9573720,"Bricklayers, Office / commercial cleaners",0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,17,0
+768,West Java,89.8,6187220,"Carpenters, Street cleaners",0,0,0,0,0,37,0,0,0,0,0,0,0,0,8,0,0
+769,Jakarta,102.1,4502610,"Seasonal crop pickers, Waste collectors",0,0,0,0,0,0,0,0,0,21,35,0,0,0,0,0,0
+770,Kalimantan,117.2,4799340,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0
+771,East Java,99.8,6197580,"Maids / Housekeepers, Handymen, Office / commercial cleaners",8,0,0,0,0,0,0,0,0,0,0,0,0,16,0,41,0
+772,Sumatra,103,309000,Construction workers,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+773,Sumatra,112.6,1621440,"Scrap metal collectors, Waste collectors",0,0,0,0,0,0,0,0,0,0,9,6,0,0,0,0,0
+774,West Java,93.9,2366280,"Construction workers, General Labor (misc.)",0,7,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0
+775,Nusa Tenggara,62.4,7659600,"Maids / Housekeepers, Plumbers, Janitors",41,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,8
+776,Kalimantan,101.4,7584720,Bricklayers,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+777,West Java,94.5,3184650,"Bricklayers, Office / commercial cleaners",0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+778,Kalimantan,90.1,5460060,"Seasonal crop pickers, Painters, Office / commercial cleaners",0,0,0,0,0,0,2,0,0,36,0,0,0,0,0,40,0
+779,Nusa Tenggara,96.1,5766000,"Scrap metal collectors, Painters",0,0,0,0,0,0,5,0,0,0,0,50,0,0,0,0,0
+780,West Java,122.2,3391050,"Maids / Housekeepers, Janitors",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+781,Kalimantan,92.3,4001205,"Handymen, Farm laborers",0,0,0,0,0,0,0,0,13,0,0,0,0,28,0,0,0
+782,Kalimantan,75.6,11408040,"Waste collectors, Construction workers, General Labor (misc.)",0,44,0,0,0,0,0,0,0,0,43,0,44,0,0,0,0
+783,Sumatra,75.9,12367905,"Carpenters, Farm laborers, Welders",0,0,0,0,0,40,0,49,9,0,0,0,0,0,0,0,0
+784,Sulawesi,105.4,3794400,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0
+785,West Java,105.8,10902690,"Handymen, Bricklayers, Street cleaners",0,0,30,0,0,0,0,0,0,0,0,0,0,24,31,0,0
+786,Bali,103.8,7992600,"Painters, Plumbers",0,0,0,25,0,0,18,0,0,0,0,0,0,0,0,0,0
+787,West Java,87.5,1443750,Painters,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+788,Kalimantan,92.9,6688800,"Street cleaners, Office / commercial cleaners, Maids / Housekeepers",47,0,0,0,0,0,0,0,0,0,0,0,0,0,37,10,0
+789,West Java,94.1,8102010,"Office / commercial cleaners, Painters",0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,19,0
+790,Papua,97.2,3892860,"Seasonal crop pickers, Janitors",0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,27
+791,West Java,89.5,13425000,"Bricklayers, Painters, General Labor (misc.)",0,0,45,0,0,0,49,0,0,0,0,0,0,0,0,0,0
+792,Central Java,70,5015500,"Plumbers, Waste collectors, Street cleaners",0,0,0,5,0,0,0,0,0,0,41,0,0,0,33,0,0
+793,Sumatra,80.1,8182215,"Painters, Maids / Housekeepers, Handymen",25,0,0,0,0,0,50,0,0,0,0,0,0,7,0,0,0
+794,Papua,92.3,4056585,"Farm laborers, Seasonal crop pickers, Handymen",0,0,0,0,0,0,0,0,37,5,0,0,0,11,0,0,0
+795,Central Java,92.1,9988245,"Seasonal crop pickers, General Labor (misc.), Welders",0,0,0,0,0,0,0,50,0,8,0,0,13,0,0,0,0
+796,Bali,71.5,6213350,"Bricklayers, Office / commercial cleaners, Construction workers",0,46,1,0,0,0,0,0,0,0,0,0,0,0,0,18,0
+797,West Java,101.9,0,Carpenters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,East Java,118.1,6288825,"Janitors, Street cleaners, Painters",0,0,0,0,0,0,21,0,0,0,0,0,0,0,15,0,14
+799,East Java,93.2,12861600,"Painters, Waste collectors, Plumbers",0,0,0,42,0,0,36,0,0,0,0,0,0,0,0,0,0
+800,Sumatra,80.1,11222010,"Electricians, Painters, Seasonal crop pickers",0,0,0,0,48,0,17,0,0,31,0,0,0,0,0,0,0
+801,Jakarta,130.4,978000,Farm laborers,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+802,Papua,79.6,4274520,"Carpenters, Seasonal crop pickers",0,0,0,0,0,15,0,0,0,47,0,0,0,0,0,0,0
+803,West Java,126.7,4865280,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0
+804,Central Java,99.1,3344625,"Street cleaners, Farm laborers",0,0,0,0,0,0,0,0,27,0,0,0,0,0,18,0,0
+805,West Java,131.5,1084875,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+806,Central Java,134.4,11511360,"Scrap metal collectors, Painters",0,0,0,0,0,0,48,0,0,0,0,13,0,0,0,0,0
+807,Sulawesi,98.1,1986525,"Janitors, Street cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,22
+808,Papua,95.8,9235120,"Waste collectors, Plumbers, Construction workers",0,14,0,35,0,0,0,0,0,0,6,0,0,0,0,0,0
+809,East Java,49.7,2176860,"Waste collectors, Electricians",0,0,0,0,21,0,0,0,0,0,2,0,0,0,0,0,0
+810,Nusa Tenggara,56.4,6153240,"Welders, Farm laborers, Carpenters",0,0,0,0,0,4,0,41,38,0,0,0,0,0,0,0,0
+811,Nusa Tenggara,96.6,9437820,"Bricklayers, Maids / Housekeepers, Seasonal crop pickers",28,0,31,0,0,0,0,0,0,40,0,0,0,0,0,0,0
+812,Kalimantan,117.9,9001665,"Construction workers, Farm laborers, Handymen",0,12,0,0,0,0,0,0,25,0,0,0,0,33,0,0,0
+813,East Java,101.7,4322250,Carpenters,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0
+814,East Java,92,6817200,"Painters, Carpenters",0,0,0,0,0,18,29,0,0,0,0,0,0,0,0,0,0
+815,West Java,112,14851200,"Painters, Carpenters, Welders",0,0,0,0,0,36,38,8,0,0,0,0,0,0,0,0,0
+816,Central Java,104.1,12304620,"Handymen, Carpenters",0,0,0,0,0,42,0,0,0,0,0,0,0,39,0,0,0
+817,Bali,101,5105550,"Handymen, Maids / Housekeepers, General Labor (misc.)",10,0,0,0,0,0,0,0,0,0,0,0,25,14,0,0,0
+818,Sumatra,119.9,2625810,"Janitors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,6
+819,West Java,90.7,6462375,"Janitors, Painters",0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,3
+820,East Java,65.6,3591600,"Farm laborers, Maids / Housekeepers",43,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0
+821,Nusa Tenggara,85.1,2893400,Plumbers,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+822,Central Java,88.8,905760,Carpenters,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+823,Central Java,96.5,7213375,"Farm laborers, Plumbers",0,0,0,25,0,0,0,0,33,0,0,0,0,0,0,0,0
+824,Kalimantan,87.8,645330,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+825,East Java,93.9,6375810,"Bricklayers, Painters",0,0,17,0,0,0,26,0,0,0,0,0,0,0,0,0,0
+826,Sulawesi,112.9,7536075,"Construction workers, Janitors",0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+827,Jakarta,103.7,9364110,"General Labor (misc.), Office / commercial cleaners, Painters",0,0,0,0,0,0,40,0,0,0,0,0,4,0,0,29,0
+828,Jakarta,87,3532200,"Electricians, Farm laborers, Office / commercial cleaners",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,34,0
+829,Kalimantan,118.9,6795135,"Handymen, Farm laborers, Construction workers",0,11,0,0,0,0,0,0,27,0,0,0,0,17,0,0,0
+830,Jakarta,122.9,2525595,"Janitors, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,12
+831,Kalimantan,118,10974000,"Office / commercial cleaners, Construction workers",0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+832,Central Java,103.8,10198350,"Construction workers, Farm laborers, Street cleaners",0,46,0,0,0,0,0,0,24,0,0,0,0,0,15,0,0
+833,Papua,108.5,9602250,"General Labor (misc.), Construction workers",0,31,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0
+834,Bali,63.7,2054325,"Maids / Housekeepers, Office / commercial cleaners",43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+835,Bali,99.9,1873125,"Janitors, Maids / Housekeepers",23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+836,East Java,134.6,11366970,"Construction workers, General Labor (misc.), Waste collectors",0,41,0,0,0,0,0,0,0,0,1,0,21,0,0,0,0
+837,Sulawesi,56.2,3919950,"Construction workers, Street cleaners",0,24,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0
+838,West Java,83.3,5222910,"General Labor (misc.), Street cleaners, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,0,32,0,4,29,0
+839,West Java,100.4,5291080,Bricklayers,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+840,Kalimantan,101.7,11461590,"Carpenters, Construction workers, Maids / Housekeepers",38,38,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+841,Kalimantan,96.9,6802380,"Office / commercial cleaners, Waste collectors",0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,36,0
+842,Jakarta,70.9,3456375,"Scrap metal collectors, Construction workers, Farm laborers",0,24,0,0,0,0,0,0,3,0,0,10,0,0,0,0,0
+843,Kalimantan,96.2,721500,Construction workers,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+844,Sulawesi,86.1,5488875,"Street cleaners, Maids / Housekeepers",44,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0
+845,Central Java,110.2,3702720,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0
+846,Kalimantan,107.2,9385360,"Carpenters, Scrap metal collectors",0,0,0,0,0,41,0,0,0,0,0,17,0,0,0,0,0
+847,Bali,89.4,13141800,"Electricians, Welders",0,0,0,0,42,0,0,35,0,0,0,0,0,0,0,0,0
+848,Kalimantan,105.6,11637120,"Bricklayers, Office / commercial cleaners",0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,28,0
+849,Sulawesi,78.5,94200,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+850,Sulawesi,73.2,3184200,"Construction workers, Waste collectors",0,11,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0
+851,Bali,88.6,6658290,"Maids / Housekeepers, General Labor (misc.), Farm laborers",47,0,0,0,0,0,0,0,21,0,0,0,23,0,0,0,0
+852,Nusa Tenggara,98.1,6768900,"Janitors, Seasonal crop pickers, Maids / Housekeepers",29,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,27
+853,Kalimantan,71.9,3968880,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0
+854,West Java,110.4,5299200,Plumbers,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0
+855,Bali,65.9,6731685,"Painters, Maids / Housekeepers, Handymen",5,0,0,0,0,0,32,0,0,0,0,0,0,42,0,0,0
+856,Papua,104.4,2020140,"Janitors, Welders",0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,9
+857,Jakarta,90.1,959565,"Street cleaners, Welders",0,0,0,0,0,0,0,3,0,0,0,0,0,0,7,0,0
+858,Sulawesi,132.6,5668650,"Janitors, Maids / Housekeepers",24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+859,Nusa Tenggara,70.9,5508930,"Office / commercial cleaners, Seasonal crop pickers, Waste collectors",0,0,0,0,0,0,0,0,0,47,27,0,0,0,0,28,0
+860,Sumatra,98,1911000,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+861,Bali,83.8,2111760,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0
+862,West Java,130.6,4035540,"Janitors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,49,0,0,0,0,0,0,2
+863,Central Java,101,454500,Waste collectors,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+864,Jakarta,60.9,3002370,"Waste collectors, Plumbers",0,0,0,17,0,0,0,0,0,0,17,0,0,0,0,0,0
+865,Central Java,95.3,3630930,"Carpenters, Farm laborers, Scrap metal collectors",0,0,0,0,0,9,0,0,8,0,0,16,0,0,0,0,0
+866,Papua,122.2,3666000,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0
+867,Bali,111.7,4400980,"Carpenters, Farm laborers, Handymen",0,0,0,0,0,2,0,0,16,0,0,0,0,20,0,0,0
+868,West Java,100.3,5867550,"Scrap metal collectors, Maids / Housekeepers, Office / commercial cleaners",16,0,0,0,0,0,0,0,0,0,0,28,0,0,0,19,0
+869,Jakarta,101.9,10699500,"Painters, General Labor (misc.), Maids / Housekeepers",44,0,0,0,0,0,20,0,0,0,0,0,40,0,0,0,0
+870,Bali,95.1,10232760,"Carpenters, Electricians, Janitors",0,0,0,0,12,28,0,0,0,0,0,0,0,0,0,0,48
+871,Central Java,76.5,7917750,"Plumbers, Carpenters",0,0,0,39,0,15,0,0,0,0,0,0,0,0,0,0,0
+872,Jakarta,128.6,15046200,"Street cleaners, Plumbers, Maids / Housekeepers",43,0,0,30,0,0,0,0,0,0,0,0,0,0,33,0,0
+873,Jakarta,111.4,2222430,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+874,Nusa Tenggara,81.1,2433000,Maids / Housekeepers,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+875,West Java,69.9,3334230,"Scrap metal collectors, Maids / Housekeepers",30,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+876,East Java,115.9,3152480,"Bricklayers, Electricians",0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+877,Central Java,128.2,6615120,"General Labor (misc.), Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,41,0
+878,Central Java,127.3,343710,Office / commercial cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+879,Central Java,63,5821200,"Seasonal crop pickers, Office / commercial cleaners, Carpenters",0,0,0,0,0,21,0,0,0,42,0,0,0,0,0,35,0
+880,Central Java,113.5,4528650,"Scrap metal collectors, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,35,3,0,0,0,0
+881,Papua,85.8,6572280,"Plumbers, Welders, Electricians",0,0,0,29,3,0,0,7,0,0,0,0,0,0,0,0,0
+882,Sulawesi,115.1,12856670,"General Labor (misc.), Electricians",0,0,0,0,38,0,0,0,0,0,0,0,34,0,0,0,0
+883,West Java,109.5,7670475,"Welders, Janitors",0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,31
+884,Jakarta,73.7,3508120,Bricklayers,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+885,Nusa Tenggara,115.7,15260830,"Plumbers, Construction workers, General Labor (misc.)",0,49,0,25,0,0,0,0,0,0,0,0,8,0,0,0,0
+886,East Java,109.5,13287825,"Street cleaners, Construction workers, Scrap metal collectors",0,38,0,0,0,0,0,0,0,0,0,37,0,0,34,0,0
+887,Papua,95.1,2586720,Carpenters,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0
+888,Sumatra,105.8,3777060,"Office / commercial cleaners, Street cleaners, Painters",0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,8,0
+889,Papua,79,2464800,"Office / commercial cleaners, Farm laborers",0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,28,0
+890,Nusa Tenggara,113.2,7414600,"Waste collectors, Bricklayers, Carpenters",0,0,3,0,0,35,0,0,0,0,1,0,0,0,0,0,0
+891,Sulawesi,100.7,8096280,"Handymen, Carpenters",0,0,0,0,0,12,0,0,0,0,0,0,0,50,0,0,0
+892,West Java,141.2,6495200,Plumbers,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0
+893,West Java,91.8,4791960,Welders,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0
+894,Bali,85.5,3052350,"Janitors, Handymen, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,0,0,27,3,0,0,5
+895,Central Java,102.7,11091600,"Handymen, Painters, Farm laborers",0,0,0,0,0,0,39,0,2,0,0,0,0,40,0,0,0
+896,Sulawesi,127.7,9347640,"Painters, Office / commercial cleaners",0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,43,0
+897,Jakarta,106,4372500,"Janitors, Handymen, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,16,0,0,0,12,0,0,23
+898,Bali,96,12672000,"Construction workers, Painters, Waste collectors",0,46,0,0,0,0,12,0,0,0,50,0,0,0,0,0,0
+899,Sulawesi,71.9,2588400,Painters,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0
+900,Papua,100.7,13367925,"Welders, Scrap metal collectors, Construction workers",0,44,0,0,0,0,0,26,0,0,0,19,0,0,0,0,0
+901,Kalimantan,77,4758600,"Construction workers, Handymen",0,6,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0
+902,Central Java,142.1,852600,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+903,Kalimantan,89.9,1887900,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+904,Papua,117.4,4754700,"Waste collectors, Painters",0,0,0,0,0,0,24,0,0,0,5,0,0,0,0,0,0
+905,Central Java,113.8,9251940,"Janitors, Bricklayers",0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+906,Papua,89,2403000,Construction workers,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+907,Papua,92.9,4737900,Carpenters,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0
+908,Bali,110.3,937550,Bricklayers,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+909,Nusa Tenggara,138.2,7214040,"Electricians, Scrap metal collectors",0,0,0,0,24,0,0,0,0,0,0,4,0,0,0,0,0
+910,Kalimantan,123.6,11865600,Plumbers,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0
+911,Kalimantan,61.1,2428725,"Seasonal crop pickers, Maids / Housekeepers",37,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0
+912,Bali,85.2,4430400,Electricians,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+913,Jakarta,102.9,6174000,Construction workers,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+914,Central Java,94.3,5280800,"Carpenters, Janitors, Bricklayers",0,0,3,0,0,22,0,0,0,0,0,0,0,0,0,0,18
+915,Papua,87,2227200,"Plumbers, General Labor (misc.), Painters",0,0,0,5,0,0,2,0,0,0,0,0,12,0,0,0,0
+916,West Java,116.1,5050350,"Farm laborers, Handymen",0,0,0,0,0,0,0,0,2,0,0,0,0,35,0,0,0
+917,Nusa Tenggara,106.2,11612970,"Waste collectors, Handymen, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,30,35,0,38,0,0,0
+918,Jakarta,83.2,399360,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+919,West Java,78.9,4958865,"Janitors, General Labor (misc.), Waste collectors",0,0,0,0,0,0,0,0,0,0,32,0,21,0,0,0,16
+920,Kalimantan,134.9,5342040,"Waste collectors, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,18,32,0,0,0,0,0,0
+921,Jakarta,105.5,18599650,"Carpenters, General Labor (misc.), Welders",0,0,0,0,0,46,0,44,0,0,0,0,18,0,0,0,0
+922,Nusa Tenggara,93.9,8451000,"Street cleaners, Janitors, Painters",0,0,0,0,0,0,50,0,0,0,0,0,0,0,18,0,2
+923,Nusa Tenggara,94,10692500,"Waste collectors, Farm laborers, Carpenters",0,0,0,0,0,28,0,0,39,0,41,0,0,0,0,0,0
+924,Central Java,100.4,6008940,"Scrap metal collectors, Waste collectors",0,0,0,0,0,0,0,0,0,0,21,39,0,0,0,0,0
+925,Kalimantan,89.8,1481700,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+926,Kalimantan,68.9,6201000,Welders,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+927,Papua,85,4012000,"Seasonal crop pickers, Electricians, Carpenters",0,0,0,0,13,4,0,0,0,24,0,0,0,0,0,0,0
+928,Nusa Tenggara,121.1,254310,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+929,Sumatra,76.3,5665275,"Janitors, Handymen",0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,43
+930,Sumatra,98.9,6576850,"Painters, Electricians, Construction workers",0,2,0,0,22,0,13,0,0,0,0,0,0,0,0,0,0
+931,Bali,115.5,3938550,"Plumbers, Office / commercial cleaners, Seasonal crop pickers",0,0,0,16,0,0,0,0,0,2,0,0,0,0,0,1,0
+932,Kalimantan,106.8,1762200,Maids / Housekeepers,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+933,Sulawesi,97.8,1760400,Handymen,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0
+934,Papua,84.7,6200040,"Street cleaners, Carpenters, Painters",0,0,0,0,0,6,39,0,0,0,0,0,0,0,6,0,0
+935,Kalimantan,75,1237500,"Maids / Housekeepers, Plumbers",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+936,Sumatra,112.2,14271840,"Welders, Handymen, Janitors",0,0,0,0,0,0,0,28,0,0,0,0,0,49,0,0,24
+937,Jakarta,127.7,14423715,"Painters, Farm laborers, Office / commercial cleaners",0,0,0,0,0,0,37,0,49,0,0,0,0,0,0,23,0
+938,Nusa Tenggara,69.3,1891890,"Seasonal crop pickers, Bricklayers",0,0,3,0,0,0,0,0,0,37,0,0,0,0,0,0,0
+939,West Java,106.6,0,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+940,Jakarta,79.4,6113800,"Janitors, Plumbers",0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,4
+941,East Java,93.7,2192580,"Office / commercial cleaners, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,12,0
+942,Sumatra,101.9,13145100,"Handymen, Bricklayers",0,0,42,0,0,0,0,0,0,0,0,0,0,48,0,0,0
+943,Papua,88.4,5065320,"Street cleaners, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,33,0,0,0,0,50,0,0
+944,Sumatra,91.7,7111335,"General Labor (misc.), Welders",0,0,0,0,0,0,0,18,0,0,0,0,43,0,0,0,0
+945,East Java,99.7,7298040,"Painters, Handymen",0,0,0,0,0,0,24,0,0,0,0,0,0,31,0,0,0
+946,Papua,76.5,5760450,"Construction workers, General Labor (misc.), Janitors",0,15,0,0,0,0,0,0,0,0,0,0,26,0,0,0,34
+947,Central Java,47.7,643950,Waste collectors,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+948,Jakarta,85.2,766800,Janitors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+949,West Java,107.6,338940,Scrap metal collectors,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+950,East Java,94.1,4912020,Welders,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0
+951,Jakarta,70,3150000,Construction workers,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+952,Sulawesi,60.4,7084920,"Painters, Seasonal crop pickers, Waste collectors",0,0,0,0,0,0,38,0,0,48,35,0,0,0,0,0,0
+953,Sumatra,106.6,1007370,General Labor (misc.),0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+954,Central Java,98.2,8268440,"Office / commercial cleaners, Seasonal crop pickers, Carpenters",0,0,0,0,0,31,0,0,0,18,0,0,0,0,0,23,0
+955,Central Java,78.5,6531200,"Office / commercial cleaners, Bricklayers",0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,32,0
+956,Nusa Tenggara,107.1,6104700,"Handymen, Seasonal crop pickers",0,0,0,0,0,0,0,0,0,41,0,0,0,27,0,0,0
+957,Nusa Tenggara,80.9,9877890,"Farm laborers, Welders, Seasonal crop pickers",0,0,0,0,0,0,0,48,22,32,0,0,0,0,0,0,0
+958,West Java,110.3,9678825,"Farm laborers, Construction workers",0,49,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0
+959,Central Java,70.3,7363925,"General Labor (misc.), Waste collectors, Plumbers",0,0,0,31,0,0,0,0,0,0,2,0,39,0,0,0,0
+960,Papua,103.1,15542325,"General Labor (misc.), Electricians, Bricklayers",0,0,27,0,33,0,0,0,0,0,0,0,37,0,0,0,0
+961,West Java,96.5,723750,Farm laborers,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+962,Nusa Tenggara,100.3,2331975,Maids / Housekeepers,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+963,Jakarta,117.4,3662880,"Seasonal crop pickers, Bricklayers",0,0,12,0,0,0,0,0,0,18,0,0,0,0,0,0,0
+964,Nusa Tenggara,86.7,3511350,"Street cleaners, Handymen, Carpenters",0,0,0,0,0,15,0,0,0,0,0,0,0,5,12,0,0
+965,Central Java,102.1,6953010,"Welders, Office / commercial cleaners, Seasonal crop pickers",0,0,0,0,0,0,0,22,0,7,0,0,0,0,0,27,0
+966,Bali,110.9,2861220,"Farm laborers, Welders",0,0,0,0,0,0,0,6,20,0,0,0,0,0,0,0,0
+967,Sumatra,50.1,2510010,"General Labor (misc.), Janitors, Office / commercial cleaners",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,20
+968,East Java,101.9,8269185,"Waste collectors, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,47,37,0,0,0,0,0
+969,Sumatra,104.9,3619050,Painters,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+970,Sulawesi,111.5,501750,Waste collectors,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+971,Jakarta,69.9,8094420,"Waste collectors, Handymen, General Labor (misc.)",0,0,0,0,0,0,0,0,0,0,41,0,42,29,0,0,0
+972,Papua,113,13424400,"Plumbers, Handymen",0,0,0,42,0,0,0,0,0,0,0,0,0,29,0,0,0
+973,East Java,86.3,6455240,Bricklayers,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+974,East Java,102.1,8647870,"Welders, Bricklayers, Waste collectors",0,0,26,0,0,0,0,5,0,0,35,0,0,0,0,0,0
+975,Bali,108.6,14986800,"Plumbers, Electricians",0,0,0,41,28,0,0,0,0,0,0,0,0,0,0,0,0
+976,Sulawesi,119.7,1077300,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0
+977,East Java,102.6,6386850,"Street cleaners, Painters",0,0,0,0,0,0,28,0,0,0,0,0,0,0,27,0,0
+978,Sumatra,154,14183400,"Handymen, Farm laborers, Scrap metal collectors",0,0,0,0,0,0,0,0,33,0,0,39,0,22,0,0,0
+979,West Java,105,15445500,"Carpenters, Electricians",0,0,0,0,37,43,0,0,0,0,0,0,0,0,0,0,0
+980,Central Java,82.4,4696800,"Painters, Construction workers",0,37,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+981,Central Java,93.9,2366280,"Electricians, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0
+982,Kalimantan,102.3,11539440,"Painters, Seasonal crop pickers, Welders",0,0,0,0,0,0,28,27,0,37,0,0,0,0,0,0,0
+983,West Java,103.7,5910900,"Waste collectors, Street cleaners",0,0,0,0,0,0,0,0,0,0,25,0,0,0,46,0,0
+984,Kalimantan,94.7,3196125,Farm laborers,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0
+985,West Java,80.7,10688715,"Maids / Housekeepers, Painters, Bricklayers",49,0,21,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+986,Nusa Tenggara,92.2,2143650,Street cleaners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0
+987,Sumatra,143.9,8223885,"Janitors, Scrap metal collectors",0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,16
+988,East Java,64.3,4629600,"Painters, Construction workers",0,34,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0
+989,Jakarta,87.6,4993200,"Plumbers, Handymen, Farm laborers",0,0,0,9,0,0,0,0,20,0,0,0,0,20,0,0,0
+990,Central Java,120.9,12549420,"Construction workers, Welders",0,26,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0
+991,Bali,123.8,3026910,"Carpenters, Street cleaners",0,0,0,0,0,6,0,0,0,0,0,0,0,0,19,0,0
+992,Nusa Tenggara,87.7,1789080,Seasonal crop pickers,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0
+993,Jakarta,132.5,9758625,"Maids / Housekeepers, Waste collectors, Scrap metal collectors",24,0,0,0,0,0,0,0,0,0,35,23,0,0,0,0,0
+994,Bali,53.3,4397250,"Farm laborers, Painters",0,0,0,0,0,0,43,0,24,0,0,0,0,0,0,0,0
+995,Bali,143,13685100,"Farm laborers, Bricklayers",0,0,36,0,0,0,0,0,46,0,0,0,0,0,0,0,0
+996,Jakarta,48.7,2016180,Welders,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0
+997,Kalimantan,103.3,3037020,"Bricklayers, Welders",0,0,12,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+998,East Java,78,5733000,"Street cleaners, Painters",0,0,0,0,0,0,26,0,0,0,0,0,0,0,46,0,0
+999,Sulawesi,101.3,11320275,"Plumbers, Janitors",0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,45
+1000,Bali,116.7,11290725,"Plumbers, Street cleaners, Electricians",0,0,0,9,30,0,0,0,0,0,0,0,0,0,25,0,0
